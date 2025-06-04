@@ -10,7 +10,7 @@ title: ALICE Workshop
 <img src="/assets/images/logos/logo.png" style="width: 50%; max-width: 400px;"/>
 </center>
 
-The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is a one-week workshop where researchers worldwide come together to work on interdisciplinary projects around complex systems, AI and ALife.
+The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is a one-week workshop where researchers worldwide come together to work on interdisciplinary projects around complex systems, ALife and AI, and evolution.
 
 The focus of the workshop is for participants to engage into novel research projects and build an interdisciplinary community. All while enjoying the warm winter sun of the canary islands ☀️🌴.
 
