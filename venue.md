@@ -15,6 +15,6 @@ title:  Venue
 
 ## Travel Information:
 
-[TBS on Google Maps](https://maps.app.goo.gl/swrR8i11xKtXHt8w8)
+[TBA on Google Maps](https://maps.app.goo.gl/swrR8i11xKtXHt8w8)
 
 Tenerife is easily reachable by plane. We will leave from there on Sunday night, after the social event.

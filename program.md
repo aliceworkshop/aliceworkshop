@@ -25,6 +25,8 @@ title:  Program
 -   Last night social event: TBA
 
 
-### Program 
+### Detailed Program 
 
-<img src="/assets/images/program.png" width="100%"/>
+TBA
+
+<!-- <img src="/assets/images/program.png" width="100%"/> -->
