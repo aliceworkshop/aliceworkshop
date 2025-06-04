@@ -20,6 +20,8 @@ title:  Program
 
 -   Surfing introduciton class.
 
+-   Art demo session.
+
 -   Last night social event: TBA
 
 
