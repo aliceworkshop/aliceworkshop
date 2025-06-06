@@ -12,9 +12,12 @@ title: ALICE Workshop
 
 The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is a one-week workshop where researchers worldwide come together to work on interdisciplinary projects around complex systems, ALife and AI, and evolution.
 
-The focus of the workshop is for participants to engage into novel research projects and build an interdisciplinary community. All while enjoying the warm winter sun of the canary islands ☀️🌴.
+The fields of artificial Life, collective intelligence, and evolution, encompass a large set of scientific fields, yet, they are unified by complexity ideas such as self-organisation, network approaches, agentic perspective, or bio-inspired paradigms of intelligence. The aim of the workshop is to provide a venue for researchers from these different communities to come together with the goal of exchanging perspective and spaning collaborations. ALICE aims to create an interdisciplinary community whose links last well beyond the workshop's end. 
 
-The fields of artificial Life, collective intelligence, and evolution, encompass a large set of scientific fields, yet, they are unified by complexity ideas such as self-organisation, network approaches, agentic perspective, or bio-inspired paradigms of intelligence. The aim of the workshop is to provide a venue for researchers from these different communities to come together with the goal of exchanging perspective and spaning collaborations. ALICE aims to create a community whose links last well beyond the workshop's end. 
+
+The workshop is build around three pillars: collaboration through projects, interdisciplinarity and community. The focus of the workshop is for participants to be expose to ideas from each other fields, and engage into novel research projects. 
+The workshop have a space for to e build an interdisciplinary community.
+ All while enjoying the warm winter sun of the canary islands ☀️🌴.
 
 
 # Important Dates
@@ -25,9 +28,8 @@ The fields of artificial Life, collective intelligence, and evolution, encompass
 
 ## Applications:
 
-- Start of applications: **September 1st, 2025**
-- Deadline for applications: **October 1st, 2025 (23:59 CEST)**
-<!-- - Deadline for applications: **EXTENDED UNTIL October 1st, 2025 (23:59 CEST)** -->
+<!-- - Start of applications: **September 1st, 2025** -->
+- Deadline for applications: **October 18th, 2025 (23:59 CEST)**
 - Notification of acceptance: **November 1st, 2025**
 
 More details about the application process will be provided soon.
