@@ -45,7 +45,8 @@ author:
   email:               alice.scienceworkshop@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             aliceworkshop.org
-  github:              aliceworkshop
+  linkedin:             https://www.linkedin.com/company/alice-workshop/
+  # github:              aliceworkshop
 
 # Add links to the sidebar.
 #menu:
