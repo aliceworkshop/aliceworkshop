@@ -10,14 +10,13 @@ title: ALICE Workshop
 <img src="/assets/images/logos/logo.png" style="width: 50%; max-width: 400px;"/>
 </center>
 
-The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is a one-week workshop where researchers worldwide come together to work on interdisciplinary projects around complex systems, ALife and AI, and evolution.
+The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is an interdisciplinary workshop bringing together researchers in complex systems and collective intelligence.
 
-The fields of artificial Life, collective intelligence, and evolution, encompass a large set of scientific fields, yet, they are unified by complexity ideas such as self-organisation, network approaches, agentic perspective, or bio-inspired paradigms of intelligence. The aim of the workshop is to provide a venue for researchers from these different communities to come together with the goal of exchanging perspective and spaning collaborations. ALICE aims to create an interdisciplinary community whose links last well beyond the workshop's end. 
+The fields of artificial Life, collective intelligence, and evolution, span a wide range of scientific disciplines, yet, they share foundational ideas from complexity science such as self-organisation, network approaches, agentic perspectives, and bio-inspired paradigms of intelligence. The aim of the workshop is to provide a venue for researchers from these different communities to come together with the goal of exchanging perspectives and spawning collaborations. 
 
+The workshop is built around three pillars: collaboration through projects, interdisciplinarity and community. The focus of the workshop is to provide perspective with stimulating environment to explore research ideas through projects and discussion groups—both of which emerge through guided self-organisation.
 
-The workshop is build around three pillars: collaboration through projects, interdisciplinarity and community. The focus of the workshop is for participants to be expose to ideas from each other fields, and engage into novel research projects. 
-The workshop have a space for to e build an interdisciplinary community.
- All while enjoying the warm winter sun of the canary islands ☀️🌴.
+All while enjoying the warm winter sun of the canary islands ☀️🌴
 
 
 # Important Dates

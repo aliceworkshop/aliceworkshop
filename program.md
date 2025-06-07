@@ -6,23 +6,23 @@ title:  Program
 
 **Main activities:**
 
--   Keynote talks: given by the speakers in the speakers section of the website.
+-   Discussion sessions: facilitated by a senior speaker, these emphasize exchanges and conversations around a blackboard—rather than traditional keynotes.
+
+-   Projects: projects are the heart of the workshop. The process of group formation will be facilitated around the project proposals that participants bring in.
 
 -   Tutorials: proposed and given by the participants on relevant topics.
 
--   Projects: participants will split into groups and will formalize a research question. They will present their (partial) results on the last day of the workshop.
-
--   Poster session: a panel where willing participants expose posters showing their work.
+-   Poster session: an opportunity for participants to showcase their work.
 
 **Social activities:**
 
--   Mountain hike to the observatory.
+-   Hike to the volcano—worry not, it's not active ;).
 
--   Surfing introduciton class.
+-   Surfing introduction class.
 
 -   Art demo session.
 
--   Last night social event: TBA
+-   Last night social event.
 
 
 ### Detailed Program 
