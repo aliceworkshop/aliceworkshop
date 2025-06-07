@@ -19,14 +19,12 @@ The workshop is built around three pillars: collaboration through projects, inte
 All while enjoying the warm winter sun of the canary islands ☀️🌴
 
 
-# Important Dates
+## Important Dates
 
-## Workshop Dates:
+### Workshop Dates:
 
 -   **February 1st to 6th, 2026**
-
-## Applications:
-
+### Applications:
 <!-- - Start of applications: **September 1st, 2025** -->
 - Deadline for applications: **October 18th, 2025 (23:59 AoE)**
 - Notification of acceptance: **November 1st, 2025**
@@ -35,7 +33,7 @@ More details about the application process will be provided soon.
 
 <!---The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).-->
 
-# Contacts
+## Contact
 
 Email us at: [alice.scienceworkshop@gmail.com](mailto:alice.scienceworkshop@gmail.com)
 
