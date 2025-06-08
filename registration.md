@@ -15,7 +15,7 @@ The application form will be available soon.
 <!-- The application form will be available soon [TBA](https://TBA) -->
 
 
-## Registration
+### Registration fee
 
 The workshop registration fee is **TBA** and it includes:
 - Accommodation from Sunday to Friday (5 nights)
@@ -24,6 +24,6 @@ The workshop registration fee is **TBA** and it includes:
 - Social activities
 
 
-## Accommodation
+### Accommodation details
 
 TBA
