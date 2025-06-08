@@ -62,8 +62,8 @@ menu:
     url: /
   - title: Program
     url:   /program/
-  - title: Venue
-    url:   /venue/
+  # - title: Venue
+    # url:   /venue/
   - title: Registration
     url: /registration/
   # - title: Projects
