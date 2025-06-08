@@ -4,7 +4,7 @@ title:  Program
 ---
 
 
-**Main activities:**
+### Main activities:
 
 -   Discussion sessions: facilitated by a senior speaker, these focus on exchanging ideas and conversation around a blackboard—rather than a traditional keynote format.
 
@@ -14,7 +14,7 @@ title:  Program
 
 -   Poster session: an opportunity for participants to showcase their work.
 
-**Social activities:**
+### Social activities:
 
 -   Hike to the volcano—worry not, it's not active ;).
 

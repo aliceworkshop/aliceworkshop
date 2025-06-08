@@ -58,15 +58,14 @@ author:
 #    url:               /about/
 
 menu:
-  # - title: About
-    # url: /about/
+  - title: About
+    url: /
+  - title: Program
+    url:   /program/
   - title: Venue
     url:   /venue/
   - title: Registration
     url: /registration/
-
-  - title: Program
-    url:   /program/
   # - title: Projects
     # url:   /projects/
   # - title: Speakers
