@@ -23,11 +23,8 @@ All while enjoying the warm winter sun of the canary islands ☀️🌴
 
 ## Important Dates
 
-### Workshop Dates:
--   **February 1st to 6th, 2026**
-
-### Applications:
-- Deadline for applications: **October 18th, 2025 (23:59 AoE)**
+- Workshop Dates: **February 1st to 6th, 2026**
+- Applications deadline: **October 18th, 2025 (23:59 AoE)**
 - Notification of acceptance: **November 1st, 2025**
 
 More details about the application process will be provided soon.
