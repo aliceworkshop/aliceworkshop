@@ -35,7 +35,7 @@ More details about the application process will be provided soon.
 
 Email us at: [alice.scienceworkshop@gmail.com](mailto:alice.scienceworkshop@gmail.com)
 
-<a href="https://bsky.app/profile/ALICE.bsky.social" target="_blank">Follow us on Bluesky!</a>
+<a href="https://bsky.app/profile/aliceworkshop.org" target="_blank">Follow us on Bluesky!</a>
 
 <br>
 
