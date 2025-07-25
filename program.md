@@ -17,11 +17,11 @@ title:  Program
 
 ### Social activities:
 
--   Hike to the [Teide Volcano](https://en.wikipedia.org/wiki/Teide)—worry not, it's not *very* active ;) .
+-   **Hike** to the [Teide Volcano](https://en.wikipedia.org/wiki/Teide)—worry not, it's not *very* active ;) .
 
--   Art demo session—a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: live coding, [algoraves](https://en.wikipedia.org/wiki/Algorave), [virtual creatures](https://sites.google.com/view/vcc-2024), experimental music instruments, etc.
+-   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: live coding, [algoraves](https://en.wikipedia.org/wiki/Algorave), [virtual creatures](https://sites.google.com/view/vcc-2024), experimental music instruments, etc.
 
--   Last night social event.
+-   **Social event** on the last night to close up the workshop.
 
 
 ### Detailed Program 
