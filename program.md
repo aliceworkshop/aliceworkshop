@@ -6,15 +6,14 @@ title:  Program
 
 ### Main activities:
 
--   Projects: projects are the heart of the workshop. The process of group formation will be facilitated around the project proposals that the invited speakers and the participants bring in.
+-   **Projects**: projects are the heart of the workshop. The process of group formation will be facilitated around the project proposals that the invited speakers and the participants bring in.
 
--   Discussion sessions: facilitated by a senior researcher, these focus on exchanging ideas and conversation around a blackboard—rather than a traditional keynote format.
+-   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas and conversation around a blackboard—rather than a traditional keynote format.
 
--   Tutorials: proposed and given by the participants on relevant topics.
+-   **Tutorials**: proposed and given by the participants on relevant topics.
 
--   Project presentation: the last day of the workshop, teams have a chance to present their early results.
+<!-- -   **Project presentation**: the last day of the workshop, teams have a chance to present their early results. -->
 
--   Poster session: an opportunity for participants to showcase their work.
 
 ### Social activities:
 
