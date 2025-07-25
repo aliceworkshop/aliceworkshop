@@ -3,7 +3,9 @@ layout: page
 title:  Registration
 ---
 
-To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. Important dates:
+To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. 
+
+**Important dates**:
 
 <!-- - Start of applications: **September 1st, 2025** -->
 - Deadline for applications: **October 18th, 2025 (23:59 AoE)**
