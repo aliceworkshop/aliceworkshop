@@ -5,6 +5,7 @@ title:  Registration
 
 To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. 
 
+
 **Important dates**:
 
 <!-- - Start of applications: **September 1st, 2025** -->
