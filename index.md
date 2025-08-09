@@ -12,9 +12,9 @@ title: ALICE Workshop
 
 The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is an interdisciplinary workshop bringing together researchers in complex systems and collective intelligence.
 
-The fields of artificial Life, collective intelligence, and evolution, span a wide range of scientific disciplines, yet, they share foundational ideas from complexity science such as self-organisation, network approaches, agentic perspectives, and bio-inspired paradigms of intelligence. The aim of the workshop is to provide a venue for researchers from these different communities to come together with the goal of exchanging perspectives and spawning collaborations. 
+The fields of artificial Life, collective intelligence, and evolution, span a wide range of scientific disciplines, yet, they share foundational ideas from complexity science such as self-organisation, network approaches, agentic perspectives, and bio-inspired paradigms of intelligence. The **ALICE** workshop provides a venue for researchers from these different communities to come together with the goal of exchanging perspectives and spawning collaborations. 
 
-The workshop is built around three pillars: collaboration through projects, interdisciplinarity and community. The focus of the workshop is to create a stimulating environment to explore research ideas through projects and discussion groups.
+The workshop is built around three pillars: collaboration through projects, interdisciplinarity—or rather,<a href="https://www.tandfonline.com/doi/abs/10.1080/08956308.2017.1373047" target="_blank">Antidisciplinary</a>—,and community. The focus of the workshop is to create a stimulating environment to explore research ideas through projects and discussion groups. 
 
 <!-- —both of which emerge through guided self-organisation. -->
 
@@ -28,8 +28,6 @@ All while enjoying the warm winter sun of the canary islands ☀️🌴
 - Notification of acceptance: **November 1st, 2025**
 
 More details about the application process will be provided soon.
-
-<!---The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).-->
 
 ## Contact
 
