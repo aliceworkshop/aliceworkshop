@@ -7,8 +7,10 @@ title: ALICE Workshop
 ---
 
 <center>
-<img src="/assets/images/logos/logo.png" style="width: 50%; max-width: 400px;"/>
+<img src="/assets/images/logos/logo.png" style="width: 40%; max-width: 400px;"/>
+<br><br><br>
 </center>
+
 
 The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is an interdisciplinary workshop bringing together researchers in complex systems and collective intelligence.
 
