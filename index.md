@@ -7,8 +7,9 @@ title: ALICE Workshop
 ---
 
 <center>
+<br>
 <img src="/assets/images/logos/logo.png" style="width: 40%; max-width: 400px;"/>
-<br><br><br>
+<br><br>
 </center>
 
 
