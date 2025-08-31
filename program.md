@@ -6,18 +6,18 @@ title:  Program
 
 ### Main activities:
 
--   **Projects**: projects are the heart of the workshop. The process of group formation will be facilitated around the project proposals that the invited speakers and the participants bring in.
+-   **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projets.
 
--   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas and conversation around a blackboard—rather than a traditional keynote format.
+-   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas, perspective and problems. Discussion session happen as group dicussion around a blackboard—rather than a traditional keynote format.
 
--   **Tutorials**: proposed and given by the participants on relevant topics.
+-   **Tutorials**: proposed, given and chosen by the participants on relevant topics.
 
 <!-- -   **Project presentation**: the last day of the workshop, teams have a chance to present their early results. -->
 
 
 ### Social activities:
 
--   **Hike** to the [Teide Volcano](https://en.wikipedia.org/wiki/Teide)—worry not, it's not *very* active ;) .
+-   **Hike**: an afternoon hike exploring the [beatufiul nature scenery](https://elhierro.travel/en/what-to-do/hiking/) that the island of El Hierro has to offer.
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: live coding, [algoraves](https://en.wikipedia.org/wiki/Algorave), [virtual creatures](https://sites.google.com/view/vcc-2024), experimental music instruments, etc.
 
