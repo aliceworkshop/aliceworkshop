@@ -17,7 +17,7 @@ title:  Program
 
 ### Social activities:
 
--   **Hike**: an afternoon hike exploring the [beatufiul nature scenery](https://elhierro.travel/en/what-to-do/hiking/) that the island of El Hierro has to offer.
+-   **Hike**: an afternoon hike exploring the [beautiful nature scenery](https://elhierro.travel/en/what-to-do/hiking/) that the island of El Hierro has to offer.
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: live coding, [algoraves](https://en.wikipedia.org/wiki/Algorave), [virtual creatures](https://sites.google.com/view/vcc-2024), experimental music instruments, etc.
 
