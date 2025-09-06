@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Registration
+title:  Attending
 ---
 
-To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. 
+To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. The workshop aims at having a balanced group of researchers at different career stages, from PhDs and postdocs to senior researchers. 
 
 
 **Important dates**:
@@ -17,14 +17,21 @@ To attend the ALICE Workshop, we ask all interested individuals to fill up the r
 The application form will be available soon.
 <!-- The application form will be available soon [TBA](https://TBA) -->
 
+### The venue
+
+
+
 
 ### Registration fee
 
-The workshop registration fee is **TBA** and it includes:
-- Accommodation from Sunday to Friday (5 nights)
-- Breakfast, lunch, and dinners at the accommodation
+The workshop registration fee is 600€ and it includes:
+
+- Accommodation from Sunday to Friday (5 nights) in shared rooms (maximum of 2 people per room) at [the Parador de El Hierro](https://paradores.es/en/parador-de-el-hierro).
+- Breakfast, lunch, and dinners every day
 - Coffee breaks
 - Social activities
+
+The registration fee does not cover the flights to the venue.
 
 
 ### Accommodation details
