@@ -17,7 +17,7 @@ To attend the ALICE Workshop, we ask all interested individuals to fill up the r
 The application form will be available soon.
 <!-- The application form will be available soon [TBA](https://TBA) -->
 
-### The venue
+<!-- ### The venue -->
 
 
 
