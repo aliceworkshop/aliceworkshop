@@ -5,9 +5,9 @@ title:  Venue
 
 The workshop will take place in the island of [El Hierro](https://maps.app.goo.gl/TBWtvi2AZKgZtsJE6), the most remote of Canary Islands in Spain.
 
-At only 1.1 million years old, El Hierro is the youngest of the Canary Islands—as such it preserves a dramatic volcanic landscape combined with natural environment in form of lush forests, endemic flora, rich marine life along its coasts. Historically, the island has a rich [pre-colonial history dating back to 10th century BC](https://en.wikipedia.org/wiki/Pre-colonial_history_of_the_Canary_Islands).
+At only 1.1 million years old, El Hierro is the youngest of the Canary Islands—as such, it preserves a dramatic volcanic landscape combined with natural environment in form of lush forests, endemic flora, rich marine life along its coasts. Historically, the island has a rich [pre-colonial history dating back to 10th century BC](https://en.wikipedia.org/wiki/Pre-colonial_history_of_the_Canary_Islands).
 
-This year workshop will be hosted at [El Parador de El Hierro](https://paradores.es/en/parador-de-el-hierro) is located in the island of [El Hierro](https://maps.app.goo.gl/TBWtvi2AZKgZtsJE6) in the Canary Islands, Spain. The *Parador* is a boutique hotel situated between a volcanic mountain and the ocean, in the middle of a huge black sand beach. 
+This year's workshop will be hosted at [El Parador de El Hierro](https://paradores.es/en/parador-de-el-hierro) is located in the island of [El Hierro](https://maps.app.goo.gl/TBWtvi2AZKgZtsJE6) in the Canary Islands, Spain. The *Parador* is a boutique hotel situated between a volcanic mountain and the ocean, in the middle of a huge black sand beach. 
 
 
 
@@ -18,7 +18,7 @@ This year workshop will be hosted at [El Parador de El Hierro](https://paradores
 
 
 <br>
-The open architecture of the venue, along with the island mild climate, make it a perfect venue to have scientific discussions and favour serendipitous interactions.
+The open architecture of the venue, along with the island's tropical climate, makes it a perfect venue to have scientific discussions and favour serendipitous interactions.
 
 <br>
 <center>
@@ -26,7 +26,7 @@ The open architecture of the venue, along with the island mild climate, make it 
 </center>
 
 <br>
-All meals and coffee breaks will be provided the [Parador restaurant](https://paradores.es/es/restaurante-del-parador-de-el-hierro), featuring local cuisine from the canary islands. Dietary preferences and restrictions can be accommodated—please indicate them on the registration form.
+All meals and coffee breaks will be provided the [Parador restaurant](https://paradores.es/es/restaurante-del-parador-de-el-hierro), featuring local cuisine from the canary islands. Dietary preferences and restrictions can be accommodated.
 
 
 

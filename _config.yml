@@ -24,11 +24,10 @@ title:                 ALICE Workshop
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           > 
-# Artificial Life, Intelligence, Complexity & Evolution Workshop
-
-# A shorter description for the sidebar.
+ Artificial Life, Intelligence, Complexity & Evolution Workshop
 tagline:               >
-  Artificial Life, Intelligence, Complexity & Evolution Workshop
+  Artificial Life, Intelligence, Complexity & Evolution Workshop<br>
+  February 1st to 6th, 2026
 
 
 # A list of keywords for your blog
@@ -50,9 +49,9 @@ author:
   # github:              aliceworkshop
 
 # Add links to the sidebar.
-#menu:
+# menu:
 #  - title:             Example
-#    url:               /example/
+  #  url:               /example/
 #  - title:             Documentation
 #    url:               https://hydejack.com/docs/
 #  - title:             About
@@ -63,27 +62,20 @@ menu:
     url: /
   - title: Program
     url:   /program/
-  - title: Venue
-    url:   /venue/
-  - title: Registration
-    url: /registration/
-  # - title: Projects
-    # url:   /projects/
   # - title: Speakers
     # url:   /speakers/
-
+  - title: Venue
+    url:   /venue/
+  - title: Attending
+    url: /attending/
+  # - title: Projects
+    # url:   /projects/
   # - title: Gallery
     # url:   /gallery/
-#  - title: Accommodation
-#    url:   /accommodation/
-
-  # - title: Committees
-    # url:   /committees/
   - title: Sponsors
     url:   /sponsors/  
   # - title: Partners
     # url:   /partners/
-
 #  - title: Support
 #    url:   /support/
 

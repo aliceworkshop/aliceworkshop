@@ -6,7 +6,7 @@ title:  Program
 
 ### Main activities:
 
--   **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projets.
+-   **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projets 
 
 -   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas, perspective and problems. Discussion session happen as group dicussion around a blackboard—rather than a traditional keynote format.
 
