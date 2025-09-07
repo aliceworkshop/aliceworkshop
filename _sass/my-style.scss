@@ -5,3 +5,25 @@
   width: 150px !important;
   height: 150px !important;
 }
+
+// Responsive venue images
+.venue-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+// On larger screens, limit the maximum width
+@media (min-width: 768px) {
+  .venue-image {
+    max-width: 600px;
+  }
+}
+
+// On very large screens, you might want an even larger max-width
+@media (min-width: 1200px) {
+  .venue-image {
+    max-width: 700px;
+  }
+}

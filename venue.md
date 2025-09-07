@@ -12,18 +12,14 @@ This year's workshop will be hosted at [El Parador de El Hierro](https://parador
 
 
 <br>
-<center>
-<img src="/assets/images/venue/parador3.jpg" style="max-width: 600px;"/>
-</center>
+<img src="/assets/images/venue/parador3.jpg" class="venue-image" alt="El Parador de El Hierro exterior view"/>
 
 
 <br>
 The open architecture of the venue, along with the island's tropical climate, makes it a perfect venue to have scientific discussions and favour serendipitous interactions.
 
 <br>
-<center>
-<img src="/assets/images/venue/parador2.jpg" style="max-width: 600px;"/>
-</center>
+<img src="/assets/images/venue/parador2.jpg" class="venue-image" alt="El Parador de El Hierro interior architecture"/>
 
 <br>
 All meals and coffee breaks will be provided the [Parador restaurant](https://paradores.es/es/restaurante-del-parador-de-el-hierro), featuring local cuisine from the canary islands. Dietary preferences and restrictions can be accommodated.
