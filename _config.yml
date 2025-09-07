@@ -48,6 +48,10 @@ author:
   linkedin:            https://www.linkedin.com/company/alice-workshop/
   # github:              aliceworkshop
 
+# Custom favicon configuration
+favicon:               /assets/icons/favicon.ico
+apple_touch_icon:      /assets/icons/apple-touch-icon.png
+
 # Add links to the sidebar.
 # menu:
 #  - title:             Example
