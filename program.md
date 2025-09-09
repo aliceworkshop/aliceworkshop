@@ -10,7 +10,7 @@ title:  Program
 
 -   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas, perspective and problems. Discussion session happen as group dicussion around a blackboard—rather than a traditional keynote format.
 
--   **Tutorials**: proposed, given and chosen by each year participants on relevant topics. Tutorials may be on theory-driven, e.g., *An introdution information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*.
+-   **Tutorials**: proposed, given and chosen by each year participants on relevant topics. Tutorials may be on theory-driven, e.g., *An introduction information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*.
 
 <!-- -   **Project presentation**: the last day of the workshop, teams have a chance to present their early results. -->
 
