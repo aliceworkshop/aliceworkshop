@@ -1,5 +1,12 @@
 // You can add CSS rules here that will be included in Hydejack's CSS file
 
+// Custom Bluesky icon - using butterfly emoji
+.icon-bluesky:before {
+  content: "🦋";
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", serif !important;
+}
+
+
 .sidebar .avatar img,
 .sidebar .avatar {
   width: 150px !important;

@@ -26,23 +26,10 @@ The fields of artificial life, collective intelligence, and evolution, span a wi
 
 The workshop is built around three pillars: collaboration through projects, interdisciplinarity—or rather, <a href="https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html" target="_blank">antidisciplinary</a>—, and community. The focus of the workshop is to create a stimulating environment to explore research ideas through discussion groups and projects—with the goal of spawning longer-term collaborations.
 
-All while enjoying the warm winter sun of the canary islands ☀️🌴
+All while enjoying the warm winter sun of the Canary Islands ☀️🌴
 
 </div>
 
-<!-- 
-
-The **Artificial Life, Intelligence, Complexity & Evolution**, or **ALICE** workshop, is an interdisciplinary workshop bringing together researchers in complex systems and collective intelligence.
-
-
-The fields of artificial life, collective intelligence, and evolution, span a wide range of scientific disciplines, yet, they share foundational ideas from complexity science such as self-organisation, network approaches, agentic perspectives, and bio-inspired paradigms of intelligence. The **ALICE** workshop provides a venue for researchers from these different communities to come together with the goal of exchanging ideas, tools, and problems.
-
-
-The workshop is built around three pillars: collaboration through projects, interdisciplinarity—or rather, <a href="https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html" target="_blank">antidisciplinary</a>—, and community. The focus of the workshop is to create a stimulating environment to explore research ideas through discussion groups and projects—with the goal of spawning longer-term collaborations.
-
-
-
-All while enjoying the warm winter sun of the Canary islands ☀️🌴 -->
 
 
 ## Important Dates

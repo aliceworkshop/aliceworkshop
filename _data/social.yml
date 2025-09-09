@@ -35,8 +35,11 @@ telegram:
   name: Telegram
   icon: icon-telegram
 twitter:
-  name: Bluesky
   icon: icon-twitter
+  prepend: 'https://bsky.app/profile/'
+bluesky:
+  name: Bluesky
+  icon: icon-bluesky
   prepend: 'https://bsky.app/profile/'
 vine:
   name: Vine

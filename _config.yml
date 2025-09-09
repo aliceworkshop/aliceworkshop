@@ -46,7 +46,7 @@ author:
   # Used by `jekyll-seo-tag`:
   twitter:             aliceworkshop.org
   linkedin:            https://www.linkedin.com/company/alice-workshop/
-  # github:              aliceworkshop
+  bluesky:             aliceworkshop.org
 
 # Custom favicon configuration
 favicon:               /assets/icons/favicon.ico
@@ -300,8 +300,8 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-# remote_theme: qwtel/hydejack@v9.2.1
-remote_theme: qwtel/hydejack@v8.4.0 # looks better than recent ones
+remote_theme: qwtel/hydejack@v8.5.2
+# remote_theme: qwtel/hydejack@v8.4.0 # looks better than recent ones
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
