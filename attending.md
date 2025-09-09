@@ -5,7 +5,7 @@ title:  Attending
 
 To attend the ALICE Workshop, we ask all interested individuals to fill our the registration form. The workshop aims at having a balanced group of researchers at different career stages, from PhDs and postdocs to senior researchers. 
 
-
+<br>
 **Important dates**:
 
 <!-- - Start of applications: **September 1st, 2025** -->
