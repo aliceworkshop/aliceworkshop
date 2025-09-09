@@ -36,7 +36,7 @@ telegram:
   icon: icon-telegram
 twitter:
   icon: icon-twitter
-  prepend: 'https://bsky.app/profile/'
+  prepend: 'https://twitter.com/profile/'
 bluesky:
   name: Bluesky
   icon: icon-bluesky
