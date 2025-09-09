@@ -14,15 +14,16 @@ To attend the ALICE Workshop, we ask all interested individuals to fill up the r
 
 <!-- We aim to create a diverse and engaged group of researchers. Excellent applicants with no previous experiences with complexity research will also be considered.  -->
 
-The application form will be available soon.
-<!-- The application form will be available soon [TBA](https://TBA) -->
+<br>
+The application form [<span style="color: #0066cc;">can be found here.</span>](https://docs.google.com/forms/d/e/1FAIpQLSd2U3IVUo06aT5MsyCTfJ9hmk3nnO71vkqVWXbfKs4B0SeeHw/viewform?usp=dialog)
 
+<!-- https://forms.gle/ksBHHErK9JrHsmQ57 -->
 
 
 
 ### Registration fee
 
-The workshop registration fee is 600€ and it includes:
+The workshop registration fee is 650EUR and it includes:
 
 - Accommodation from Sunday to Friday (5 nights)
  in shared rooms (2 people per room) at [the Parador de El Hierro](https://paradores.es/en/parador-de-el-hierro). <span style="color: gray;">*</span>

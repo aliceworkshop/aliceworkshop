@@ -51,7 +51,8 @@ All while enjoying the warm winter sun of the Canary islands ☀️🌴 -->
 - Applications deadline: **October 18th, 2025 (23:59 AoE)**
 - Notification of acceptance: **November 1st, 2025**
 
-More details about the application process will be provided soon.
+
+See [Attending section](/attending/) for information on how to register.
 
 ## Contact
 
