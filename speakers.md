@@ -21,7 +21,7 @@ Guest speakers will be leading the discussion sessions and lead the projects.
       <div class="sl"><a href="https://biocomputationlab.com/" target="_blank"><img src="/assets/images/speakers/angel.jpg" alt="Ángel Goñi-Moreno"></a></div>
       <div class="si">
         <h4><a class="sln" href="https://biocomputationlab.com/" target="_blank">Ángel Goñi-Moreno</a></h4>
-        <p>Ángel Goñi-Moreno is the leader of the <a href="https://biocomputationlab.com/" target="_blank">Biocomputation Lab</a> which combines computer science and synthetic biology to design, build and test living biological circuits. Combining theory with experiments Prof. Goñi-Moreno studies how microbes and molecular systems process information, like environmental signals, and engineer new ways for them to do so.</p>
+        <p>Ángel Goñi-Moreno is the leader of the <a href="https://biocomputationlab.com/" target="_blank">Biocomputation Lab</a> which brings together computer science and synthetic biology to design, build and test living biological circuits. He combines theory with experiments Prof. Goñi-Moreno studies how microbes and molecular systems process information, like environmental signals, and engineer new ways for them to do so.</p>
       </div>
     </div>
 

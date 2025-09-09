@@ -3,7 +3,7 @@ layout: page
 title:  Attending
 ---
 
-To attend the ALICE Workshop, we ask all interested individuals to fill up the registration form. The workshop aims at having a balanced group of researchers at different career stages, from PhDs and postdocs to senior researchers. 
+To attend the ALICE Workshop, we ask all interested individuals to fill our the registration form. The workshop aims at having a balanced group of researchers at different career stages, from PhDs and postdocs to senior researchers. 
 
 
 **Important dates**:
