@@ -68,10 +68,10 @@ menu:
     url:   /program/
   - title: Speakers
     url:   /speakers/
-  - title: Venue
-    url:   /venue/
-  - title: Attending
-    url: /attending/
+  # - title: Venue
+    # url:   /venue/
+  # - title: Attending
+    # url: /attending/
   # - title: Projects
     # url:   /projects/
   # - title: Gallery
