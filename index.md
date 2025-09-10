@@ -39,7 +39,7 @@ The workshop is built around three pillars: collaboration through projects, inte
 - Notification of acceptance: **November 1st, 2025**
 
 
-See [Attending section](/attending/) for information on how to register.
+<!-- See [Attending section](/attending/) for information on how to register. -->
 
 ## Contact
 
