@@ -25,7 +25,7 @@ The application form [<span style="color: #0066cc;">can be found here.</span>](h
 The workshop registration fee is 200EUR and it includes:
 
 - Participation in the workshop
-- Coffee breaks and lunch 
+- Coffee break and lunch (Monday to Friday)
 - Social dinner
 - Social activities
 
