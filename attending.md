@@ -22,19 +22,11 @@ The application form [<span style="color: #0066cc;">can be found here.</span>](h
 
 ### Registration fee
 
-The workshop registration fee is 650EUR and it includes:
+The workshop registration fee is 200EUR and it includes:
 
-- Accommodation from Sunday to Friday (5 nights)
- in shared rooms (2 people per room) at [the Parador de El Hierro](https://paradores.es/en/parador-de-el-hierro). <span style="color: gray;">*</span>
-- Breakfast, lunch, and dinners
-- Coffee breaks
+- Participation in the workshop
+- Coffee breaks and lunch 
+- Social dinner
 - Social activities
 
 The registration fee does not cover the flights to the venue.
-
-<br>
-<span style="color: gray;">* In order to accomodate more particpants and minimise the registation fee, we have reserved a set of 2-people rooms with twin beds and private bathroom. If you would like to book a single room, please indicate this on the registration form, and we will inquire with the venue about the additional cost.</span>
-
-### Accommodation details
-
-See the [Venue](/venue/) page for the accomodation details.
