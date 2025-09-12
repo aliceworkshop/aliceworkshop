@@ -29,4 +29,4 @@ The workshop registration fee is 200EUR and it includes:
 - Social dinner
 - Social activities
 
-The registration fee does not cover the flights to the venue.
+The registration fee does not cover hotel accommodation.
