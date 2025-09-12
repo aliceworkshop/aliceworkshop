@@ -15,8 +15,12 @@ title:  Venue
 
 The workshop will take place in Copenhagen, Denmark.
 
-Founded in the 10th century as a small Viking fishing village, Copenhagen has grown into a vibrant city that blends historic architecture with modern design, cycling culture, and an active cultural scene. Copenhagen is easily reachable by train and fly from ([see direct flights from europe](https://www.flightconnections.com/flights-to-copenhagen-cph)). 
+Founded in the 10th century as a small Viking fishing village, Copenhagen has grown into a vibrant city that blends historic architecture with modern design, cycling culture, and an active cultural scene. Copenhagen is easily reachable by train and fly—[see direct flights to Copenhagen](https://www.flightconnections.com/flights-to-copenhagen-cph). 
 
+
+<img src="/assets/images/background/cph.jpg" class="venue-image" alt="Copenhagen"/>
+
+<br>
 The workshop will be hosted between the [Pioneer Centre for AI](https://www.aicentre.dk/) in the Botanical Garden and the [IT University of Copenhagen](https://maps.app.goo.gl/eLN3VnEd6sCfxdvH8). 
 
 </div>

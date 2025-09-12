@@ -24,10 +24,9 @@ title:                 ALICE Workshop
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           > 
- Artificial Life, Intelligence, Complexity & Evolution Workshop
-tagline:               >
-  Artificial Life, Intelligence, Complexity & Evolution Workshop<br>
-  February 2nd to 6th, 2026
+ February 2nd to 6th, 2026
+# tagline:               >
+  # Artificial Life, Intelligence, Complexity & Evolution Workshop<br>
 
 
 # A list of keywords for your blog
@@ -107,9 +106,11 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/images/background/b1.jpg
-accent_image:          /assets/images/background/b2.jpg
+# accent_image:          /assets/images/background/b2.jpg
+# accent_image:          /assets/images/background/pioneer.jpg
+accent_image:          /assets/images/background/cph_dark.jpg
 accent_color:          rgb(25,55,71)
-# accent_color:          rgb(118,194,138)
+# accent_color:          '#ffffff'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
