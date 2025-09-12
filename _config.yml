@@ -27,7 +27,7 @@ description:           >
  Artificial Life, Intelligence, Complexity & Evolution Workshop
 tagline:               >
   Artificial Life, Intelligence, Complexity & Evolution Workshop<br>
-  February 1st to 6th, 2026
+  February 2nd to 6th, 2026
 
 
 # A list of keywords for your blog
@@ -66,12 +66,12 @@ menu:
     url: /
   - title: Program
     url:   /program/
-  - title: Speakers
-    url:   /speakers/
-  # - title: Venue
-    # url:   /venue/
-  # - title: Attending
-    # url: /attending/
+  # - title: Speakers
+    # url:   /speakers/
+  - title: Venue
+    url:   /venue/
+  - title: Attending
+    url: /attending/
   # - title: Projects
     # url:   /projects/
   # - title: Gallery

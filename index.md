@@ -34,10 +34,9 @@ The workshop is built around three pillars: collaboration through projects, inte
 
 ## Important Dates
 
-- Workshop Dates: **February 1st to 6th, 2026**
-- Applications deadline: **October 18th, 2025 (23:59 AoE)**
-- Notification of acceptance: **November 1st, 2025**
-
+- Workshop Dates: **February 2nd to 6th, 2026**
+- Applications deadline: **October 31st, 2025 (23:59 AoE)**
+- Notification of acceptance: **November 15th, 2025**
 
 <!-- See [Attending section](/attending/) for information on how to register. -->
 
