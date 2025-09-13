@@ -23,7 +23,7 @@ title:  Program
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
 
--   **Gala dinner**: a social dinner at copenhagen restaurant.
+-   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees.
 
 
 ### Detailed Program 
