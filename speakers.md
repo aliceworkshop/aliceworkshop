@@ -13,7 +13,7 @@ Guest speakers will be leading the discussion sessions and lead the projects.
 
 
 <style>
-.spt{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:1rem;margin-top:1rem}.sc{display:flex;flex-direction:column;align-items:center;border-radius:32px;padding:1rem;background:#fff;box-shadow:0 6px 6px rgba(0,0,0,0.0);transition:transform .25s ease,box-shadow .25s ease;text-align:left}.sc:hover{transform:scale(1.15);box-shadow:0 0px 20px rgba(0,0,0,0.12)}.sl{max-width:600px;margin-bottom:1.1rem}.sl img{width:100%;height:auto;border-radius:8px}.si h4{margin:0 0 .6rem;font-size:1.2rem;color:#333;text-align:center}.si p{margin:0;font-size:.95rem;color:#666;line-height:1.4;text-align:justify}.sln{text-decoration:none;color:inherit}
+.spt{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem;margin-top:1rem}.sc{display:flex;flex-direction:column;align-items:center;border-radius:32px;padding:1rem;background:#fff;box-shadow:0 6px 6px rgba(0,0,0,0.0);transition:transform .25s ease,box-shadow .25s ease;text-align:left}.sc:hover{transform:scale(1.15);box-shadow:0 0px 20px rgba(0,0,0,0.12)}.sl{max-width:800px;margin-bottom:1.1rem}.sl img{width:100%;height:auto;border-radius:8px}.si h4{margin:0 0 .6rem;font-size:1.2rem;color:#333;text-align:center}.si p{margin:0;font-size:.95rem;color:#666;line-height:1.5;text-align:justify}.sln{text-decoration:none;color:inherit}
 </style>
 
 <div class="spt">
