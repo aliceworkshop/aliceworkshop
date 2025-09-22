@@ -28,4 +28,4 @@ title:  Program
 
 ### Detailed Program 
 
-<img src="assets/images/program/program.png" width="100%"/>
+<img src="/assets/images/program/program.png" class="venue-image" alt="Program"/>
