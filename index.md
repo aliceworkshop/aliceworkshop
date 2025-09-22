@@ -28,6 +28,8 @@ The workshop is built around three pillars: collaboration through projects, inte
 
 <!-- All while enjoying the warm winter sun of the Canary Islands ☀️🌴 -->
 
+The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">REAL Lab</a>.
+
 </div>
 
 
