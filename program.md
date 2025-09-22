@@ -30,4 +30,6 @@ title:  Program
 
 ### Detailed Program 
 
-<img src="/assets/images/program/program.png" class="venue-image" alt="Program"/>
+<a href="/assets/images/program/program.png" target="_blank">
+  <img src="/assets/images/program/program.png" class="venue-image" alt="Program"/>
+</a>
