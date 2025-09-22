@@ -66,8 +66,8 @@ menu:
     url: /
   - title: Program
     url:   /program/
-  # - title: Speakers
-    # url:   /speakers/
+  - title: Speakers
+    url:   /speakers/
   - title: Venue
     url:   /venue/
   - title: Attending

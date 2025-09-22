@@ -28,6 +28,4 @@ title:  Program
 
 ### Detailed Program 
 
-TBA
-
-<!-- <img src="/assets/images/program.png" width="100%"/> -->
+<img src="/assets/images/program.png" width="100%"/>

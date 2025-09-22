@@ -58,6 +58,14 @@ Guest speakers will be leading the discussion sessions and lead the projects.
       </div>
     </div>
 
+    <div class="sc">
+      <div class="sl"><a href="https://aliceworkshop.org/speakers" target="_blank"><img src="/assets/images/speakers/speakerTBA3.png" alt=""></a></div>
+      <div class="si">
+        <h4><a class="sln" href="https://aliceworkshop.org/speakers" target="_blank">TBA</a></h4>
+        <p></p>
+      </div>
+    </div>
+
 
 
 </div>
