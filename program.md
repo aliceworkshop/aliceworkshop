@@ -19,7 +19,7 @@ title:  Program
 
 <!-- -   **Hike**: an afternoon hike exploring the [beautiful natural scenery](https://elhierro.travel/en/what-to-do/hiking/) that the island of El Hierro has to offer.  -->
 
-- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/) and one of the oldest observatories in Europe: [the round tower](https://www.rundetaarn.dk/en/front-page/).
+- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/), and one of the oldest astronomical observatories in Europe: [the round tower](https://www.rundetaarn.dk/en/front-page/).
 
 -   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees.
 
