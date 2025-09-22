@@ -19,11 +19,13 @@ title:  Program
 
 <!-- -   **Hike**: an afternoon hike exploring the [beautiful natural scenery](https://elhierro.travel/en/what-to-do/hiking/) that the island of El Hierro has to offer.  -->
 
-- **City trip**: details TBA.
+- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/) and one of the oldest observatories in Europe: [the round tower](https://www.rundetaarn.dk/en/front-page/).
+
+-   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees.
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
 
--   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees.
+
 
 
 ### Detailed Program 
