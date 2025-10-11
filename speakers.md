@@ -25,6 +25,16 @@ Guest speakers will be leading the discussion sessions and lead the projects.
       </div>
     </div>
 
+
+
+    <div class="sc">
+      <div class="sl"><a href="https://scholar.google.com/citations?user=rD32w_EAAAAJ&hl=en" target="_blank"><img src="/assets/images/speakers/susan.jpg" alt="Susan Stepney"></a></div>
+      <div class="si">
+        <h4><a class="sln" href="https://scholar.google.com/citations?user=rD32w_EAAAAJ&hl=en" target="_blank">Susan Stepney</a></h4>
+        <p>Susan Stepney is Professor at the <a href="https://www.cs.york.ac.uk/people/susan" target="_blank">University of York</a> in England and former director of <a href="https://www.york.ac.uk/yccsa/" target="_blank">York Cross-disciplinary Centre for Complex Systems.</a> Her works ranges from plasma physics to artificial life, in materio computing and complex systems. </p>
+      </div>
+    </div>
+
     <div class="sc">
       <div class="sl"><a href="https://www.alyssa-m-adams.com/" target="_blank"><img src="/assets/images/speakers/alyssa.jpg" alt="Alyssa M. Adams"></a></div>
       <div class="si">
@@ -42,30 +52,26 @@ Guest speakers will be leading the discussion sessions and lead the projects.
     </div>
 
     <div class="sc">
-      <div class="sl"><a href="https://aliceworkshop.org/speakers" target="_blank"><img src="/assets/images/speakers/speakerTBA1.png" alt=""></a></div>
+      <div class="sl"><a href="https://www.mn.uio.no/ifi/english/people/aca/kyrrehg/" target="_blank"><img src="/assets/images/speakers/kyrre.jpg" alt="Kyrre Glette"></a></div>
       <div class="si">
-        <h4><a class="sln" href="https://aliceworkshop.org/speakers" target="_blank">TBA</a></h4>
-        <p></p>
+        <h4><a class="sln" href="https://www.mn.uio.no/ifi/english/people/aca/kyrrehg/" target="_blank">Kyrre Glette</a></h4>
+        <p>Kyrre Glette is a Professor at <a href="https://www.mn.uio.no/ifi/english/research/groups/robin/" target="_blank">Robotics and Intelligent Systems (ROBIN) group</a>, as well as at <a href="https://www.uio.no/ritmo/english/" target="_blank">RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion</a>  at the University of Oslo, Norway. His research focuses on AI for robot design, adaptivity, and creativity.</p>
       </div>
     </div>
+
+
+
+
+
 
 
     <div class="sc">
-      <div class="sl"><a href="https://aliceworkshop.org/speakers" target="_blank"><img src="/assets/images/speakers/speakerTBA2.png" alt=""></a></div>
+      <div class="sl"><a href="https://www.nichele.eu/" target="_blank"><img src="/assets/images/speakers/stefano.jpg" alt="Stefano Nichele"></a></div>
       <div class="si">
-        <h4><a class="sln" href="https://aliceworkshop.org/speakers" target="_blank">TBA</a></h4>
-        <p></p>
+        <h4><a class="sln" href="https://www.nichele.eu/" target="_blank">Stefano Nichele</a></h4>
+        <p>Stefano Nichele is Professor at <a href="https://www.hiof.no/iio/itk/english/people/aca/stefanon/" target="_blank">Østfold University College</a> in Norway. His work aim at understanding how life (and intelligence) can emerge in machines as it does in biological organisms, and how to create machines that are more adaptive, alive, and generally intelligent. </p>
       </div>
     </div>
-
-    <div class="sc">
-      <div class="sl"><a href="https://aliceworkshop.org/speakers" target="_blank"><img src="/assets/images/speakers/speakerTBA3.png" alt=""></a></div>
-      <div class="si">
-        <h4><a class="sln" href="https://aliceworkshop.org/speakers" target="_blank">TBA</a></h4>
-        <p></p>
-      </div>
-    </div>
-
 
 
 </div>
