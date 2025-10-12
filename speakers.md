@@ -43,6 +43,16 @@ Guest speakers will be leading the discussion sessions and lead the projects.
       </div>
     </div>
 
+
+    <div class="sc">
+      <div class="sl"><a href="https://znah.net/" target="_blank"><img src="/assets/images/speakers/alex.jpg" alt="Alexander Mordvintsev"></a></div>
+      <div class="si">
+        <h4><a class="sln" href="https://znah.net/" target="_blank">Alexander Mordvintsev</a></h4>
+        <p>Alexander Mordvintsev is a researcher at Google's <a href="https://github.com/paradigms-of-intelligence" target="_blank"> Paradigms of Intelligence Team</a>. <a href="https://scholar.google.com/citations?user=A_HbzQMAAAAJ&hl=en" target="_blank">His work</a> focuses on differentiable self-organising systems, as well as tools to visualise and interpret the latent dynamics of systems of neural networks.
+        </p>
+      </div>
+    </div>
+
     <div class="sc">
       <div class="sl"><a href="https://erallab.inginf.units.it/" target="_blank"><img src="/assets/images/speakers/eric2.jpg" alt="Eric Medvet"></a></div>
       <div class="si">
@@ -58,10 +68,6 @@ Guest speakers will be leading the discussion sessions and lead the projects.
         <p>Kyrre Glette is a Professor at <a href="https://www.mn.uio.no/ifi/english/research/groups/robin/" target="_blank">Robotics and Intelligent Systems (ROBIN) group</a>, as well as at <a href="https://www.uio.no/ritmo/english/" target="_blank">RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion</a>  at the University of Oslo, Norway. His research focuses on AI for robot design, adaptivity, and creativity.</p>
       </div>
     </div>
-
-
-
-
 
 
 
