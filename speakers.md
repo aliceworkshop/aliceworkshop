@@ -34,7 +34,8 @@ Guest speakers will be leading the discussion groups and facilitate the projects
       <div class="sl"><a href="https://scholar.google.com/citations?user=rD32w_EAAAAJ&hl=en" target="_blank"><img src="/assets/images/speakers/susan.jpg" alt="Susan Stepney"></a></div>
       <div class="si">
         <h4><a class="sln" href="https://scholar.google.com/citations?user=rD32w_EAAAAJ&hl=en" target="_blank">Susan Stepney</a></h4>
-        <p>Susan Stepney is Professor at the <a href="https://www.cs.york.ac.uk/people/susan" target="_blank">University of York</a> in England and former director of <a href="https://www.york.ac.uk/yccsa/" target="_blank">York Cross-disciplinary Centre for Complex Systems.</a> Her works ranges from plasma physics to artificial life, in materio computing and complex systems. </p>
+        <p>Susan Stepney is Professor at the <a href="https://www.cs.york.ac.uk/people/susan" target="_blank">University of York</a> in England and former director of <a href="https://www.york.ac.uk/yccsa/" target="_blank">York Cross-disciplinary Centre for Complex Systems.</a> Her  research interests include unconventional models of computation including in materio reservoir computing, bio-inspired computing, artificial life, and open-ended evolution.
+      </p>
       </div>
     </div>
 
