@@ -3,7 +3,7 @@ layout: page
 title:  Speakers
 ---
 
-Guest speakers will be leading the discussion sessions and lead the projects. 
+Guest speakers will be leading the discussion groups and facilitate the projects. 
 
 <br>
 

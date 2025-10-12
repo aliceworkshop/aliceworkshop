@@ -26,6 +26,8 @@ The fields of artificial life, collective intelligence, and evolution, span a wi
 
 The workshop is built around three pillars: collaboration through projects, interdisciplinarity—or rather, <a href="https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html" target="_blank">antidisciplinarity</a>—, and community. The focus of the workshop is to create a stimulating environment to explore research ideas through discussion groups and projects—with the goal of spawning longer-term collaborations.
 
+The discussion groups and the projects will be facilitated by the [guest speakers](/speakers/).
+
 <!-- All while enjoying the warm winter sun of the Canary Islands ☀️🌴 -->
 
 The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">REAL Lab</a>.
