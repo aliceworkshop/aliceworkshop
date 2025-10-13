@@ -13,6 +13,29 @@
   height: 150px !important;
 }
 
+// Sidebar title font override
+.sidebar-about > h2 {
+  font-family: "KoHo", "Noto Sans", Helvetica, Arial, sans-serif !important;
+  font-weight: 600;
+  color: #ffffff !important;
+}
+
+// Ensure sidebar about text (description) renders as pure white
+.sidebar-about {
+  color: #ffffff !important;
+}
+
+.sidebar-about p,
+.sidebar-about small,
+.sidebar-about a {
+  color: #ffffff !important;
+}
+
+// Keep link underline visible on white
+.sidebar-about a {
+  border-bottom-color: rgba(255, 255, 255, 0.5) !important;
+}
+
 // Responsive venue images
 .venue-image {
   max-width: 100%;
