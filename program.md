@@ -6,9 +6,9 @@ title:  Program
 
 ### Main activities:
 
--   **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projets 
+-   **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projects. 
 
--   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas, perspective and problems. Discussion sessions happen as group dicussion around a blackboard—rather than a traditional keynote format.
+-   **Discussion sessions**: facilitated by a senior researcher, these focus on exchanging ideas, perspective and problems. Discussion sessions happen as group discussion around a blackboard—rather than a traditional keynote format.
 
 -   **Tutorials**: proposed, given and chosen by each year participants on relevant topics. Tutorials may be theory-driven, e.g., *An introduction information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*.
 
