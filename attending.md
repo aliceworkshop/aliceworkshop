@@ -8,7 +8,7 @@ To attend the ALICE Workshop, we ask all interested individuals to fill our the 
 <br>
 **Important dates**:
 
-- Deadline for applications: **October 31st, 2025 (23:59 AoE)**
+- Deadline for applications: ~~October 31st, 2025 (23:59 AoE)~~
 - Notification of acceptance: **November 15th, 2025**
 
 <!-- We aim to create a diverse and engaged group of researchers. Excellent applicants with no previous experiences with complexity research will also be considered.  -->
