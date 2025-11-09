@@ -21,4 +21,7 @@ function randomizeSpeakers() {
 document.addEventListener('DOMContentLoaded', randomizeSpeakers);
 
 // Run when navigating via Hydejack's push-state
-document.addEventListener('hy-push-state-load', randomizeSpeakers);
+const pushStateEl = document.querySelector('hy-push-state');
+if (pushStateEl) {
+    pushStateEl.addEventListener('hy-push-state-after', randomizeSpeakers);
+}
