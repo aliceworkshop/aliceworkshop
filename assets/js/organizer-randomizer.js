@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+function randomizeOrganizers() {
     const organizersContainer = document.querySelector('.opt');
     if (organizersContainer) {
         const organizers = Array.from(organizersContainer.children);
@@ -15,4 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
             organizersContainer.appendChild(organizer);
         });
     }
-});
+}
+
+// Run on initial page load
+document.addEventListener('DOMContentLoaded', randomizeOrganizers);
+
+// Run when navigating via Hydejack's push-state
+document.addEventListener('hy-push-state-load', randomizeOrganizers);
