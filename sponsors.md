@@ -32,6 +32,21 @@ title:  Sponsors
   </a>
 </div>
 
+
+<div class="spt">
+  <a class="sln" href="https://cssociety.org" target="_blank">
+    <div class="sc">
+      <div class="sl"><img src="/assets/images/sponsors/CSS.png" alt="CSS logo"></div>
+      <div class="si">
+        <h4>Complex Systems Society (CSS)</h4>
+        <p>The purpose of the Society is to promote the development of all aspects of complex systems science among the whole international scientific community.
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
+
+
 <div class="spt">
   <a class="sln" href="https://www.itu.dk/" target="_blank">
     <div class="sc">
