@@ -21,7 +21,9 @@ Founded in the 10th century as a small Viking fishing village, Copenhagen has gr
 <img src="/assets/images/background/cph.jpg" class="venue-image" alt="Copenhagen"/>
 
 <br>
-The workshop will be hosted between the [Pioneer Centre for AI](https://www.aicentre.dk/) in the Botanical Garden and the [IT University of Copenhagen](https://maps.app.goo.gl/eLN3VnEd6sCfxdvH8). 
+The workshop will be primarily hosted at the [IT University of Copenhagen](https://maps.app.goo.gl/eLN3VnEd6sCfxdvH8), in Amager, the southern neighborhood of Copenhagen. 
+
+<!-- be hosted between the [Pioneer Centre for AI](https://www.aicentre.dk/) in the Botanical Garden and  -->
 
 </div>
 
