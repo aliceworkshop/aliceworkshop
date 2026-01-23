@@ -30,8 +30,7 @@ The discussion groups and the projects will be facilitated by the [guest speaker
 
 <!-- All while enjoying the warm winter sun of the Canary Islands ☀️🌴 -->
 
-The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">REAL Lab</a>.
-
+The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">REAL Lab</a>, and sponsored by <a href="https://real.itu.dk/" target="_blank">ioneer Center for Artificial Intelligence</a>, the <a href="https://alife.org/" target="_blank">International Society for Artificial Life (ISAL)</a>, the <a href="https://cssociety.org" target="_blank">Complex Systems Society (CSS)</a>, and the <a href="https://www.itu.dk/" target="_blank">IT University of Copenhagen</a>.
 </div>
 
 
