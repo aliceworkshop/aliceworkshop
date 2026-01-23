@@ -40,7 +40,7 @@ The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">
 
 - Workshop Dates: **February 2nd to 6th, 2026**
 - Applications deadline: ~~October 31st, 2025 (23:59 AoE)~~
-- Notification of acceptance: **November 15th, 2025**
+- Notification of acceptance: ~~November 15th, 2025~~
 
 <!-- See [Attending section](/attending/) for information on how to register. -->
 
