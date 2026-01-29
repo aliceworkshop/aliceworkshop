@@ -27,7 +27,7 @@ title:  Program
 
 - [**Discussion groups** (DG)](/discussion-groups/) facilitated by a senior researcher, these sessions focus on exchanging ideas, perspective and problems. Discussion sessions happen as group discussion around a blackboard—rather than a traditional keynote format. This year's discussion groups can be found in the [discussion groups](/discussion-groups/).
 
--   **Tutorials**: proposed, given and chosen by each year participants on relevant topics. This year's tutorials can be found in the [tutorials](/tutorials/).
+- [**Tutorials**:](/tutorials/) proposed, given and chosen by each year participants on relevant topics. This year's tutorials can be found in the [tutorials](/tutorials/).
 <!-- -   Tutorials may be theory-driven, e.g., *An introduction information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*. -->
 
 <!-- -   **Project presentation**: the last day of the workshop, teams have a chance to present their early results. -->
