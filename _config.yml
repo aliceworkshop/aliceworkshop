@@ -65,7 +65,9 @@ menu:
   - title: About
     url: /
   - title: Program
-    url:   /program/
+    url:   /program/  
+  - title: Tutorials
+    url:   /tutorials/
   - title: Speakers
     url:   /speakers/
   - title: Venue
