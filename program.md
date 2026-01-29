@@ -4,13 +4,15 @@ title:  Program
 ---
 
 
-### Program 
 
+### Program 
 <br>
 <a href="/assets/images/program/program.png" target="_blank">
   <img src="/assets/images/program/program.png" class="venue-image" alt="Program"/>
 </a>
 
+
+[Map of Copenhagen with venue and social activity locations.](https://www.google.com/maps/d/edit?mid=1sicDJ5OZS0NK5WMVkRlvtJPQy1WhvhI&usp=sharing)
 
 ### Main activities:
 
@@ -23,11 +25,7 @@ title:  Program
   - Friday: 2A08, 2A05, 3A01, 3A05. 4A09, 5A01, 5A05 (6 skyboxes + 2A08).
 
 
--   **Discussion groups** (DG): facilitated by a senior researcher, these sessions focus on exchanging ideas, perspective and problems. Discussion sessions happen as group discussion around a blackboard—rather than a traditional keynote format.
-
-    - DG A: Faciliated by Angel Goñi-Moreno - Room: 3A01 - Time: Monday 14:00 - 15:30
-    - DG B: Faciliated by Melanie Mitchell - Room: 5A01 - Time: Tuesday 14:00 - 15:30
-    - DG C: Faciliated by Peter Dittrich - Room: 3A05 - Time: Wednesday 14:00 - 
+- [**Discussion groups** (DG)](/discussion-groups/) facilitated by a senior researcher, these sessions focus on exchanging ideas, perspective and problems. Discussion sessions happen as group discussion around a blackboard—rather than a traditional keynote format. This year's discussion groups can be found in the [discussion groups](/discussion-groups/).
 
 -   **Tutorials**: proposed, given and chosen by each year participants on relevant topics. This year's tutorials can be found in the [tutorials](/tutorials/).
 <!-- -   Tutorials may be theory-driven, e.g., *An introduction information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*. -->
@@ -46,5 +44,4 @@ title:  Program
 - **Guided meditation**: 1-hour Zen introduction session with the teacher from Boundless Way Zen Copenhagen. This includes 30 min guided meditation (sitting + walking), along with some time for Q+A at the end. Meeting point: AIRLab - ITU Ground floor.
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
-
-
+  

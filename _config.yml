@@ -66,6 +66,8 @@ menu:
     url: /
   - title: Program
     url:   /program/  
+  - title: Discussion Groups
+    url:   /discussion-groups/
   - title: Tutorials
     url:   /tutorials/
   - title: Speakers
