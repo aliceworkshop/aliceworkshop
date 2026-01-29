@@ -14,6 +14,14 @@ title:  Program
 
 [Map of Copenhagen with venue and social activity locations.](https://www.google.com/maps/d/edit?mid=1sicDJ5OZS0NK5WMVkRlvtJPQy1WhvhI&usp=sharing)
 
+<style>
+.justified-text {
+    text-align: justify;
+}
+</style>
+
+<div class="justified-text" markdown="1">
+
 ### Main activities:
 
 - **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projects. Skybox rooms are booked for the projects every day 9 to 17, except Friday 9 to 12. You may also use them after those hours if not claimed. Besides the booked rooms, you are free to use any of the common areas in the ITU building for your project work.
@@ -45,3 +53,7 @@ title:  Program
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
   
+
+
+
+</div>

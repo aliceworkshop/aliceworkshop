@@ -3,6 +3,13 @@ layout: page
 title:  Discussion Groups
 ---
 
+<style>
+.justified-text {
+    text-align: justify;
+}
+</style>
+
+<div class="justified-text" markdown="1">
 
 ### **DG A**: Open Endedness with Automata Chemistries
 
@@ -55,3 +62,6 @@ Facilitator: **Kyrre Glette** |  Time: Tuesday 10:30 - 12:00 | Room: 5A09
 ### **DG G**: TBA
 
 Facilitator: **Alexander Mordvintsev** |  Time: Tuesday 10:30 - 12:00 | Room: 3A07
+
+
+</div>
