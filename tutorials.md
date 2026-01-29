@@ -14,7 +14,7 @@ What does a universe need to be interesting? One answer might be that a universe
 **Preparation/materials:**
 
 A repository accompanying the tutorial can be found at
-https://gitlab.com/asteraceous/iflowinca/-/blob/master/README.md
+[https://gitlab.com/asteraceous/iflowinca/-/blob/master/README.md](https://gitlab.com/asteraceous/iflowinca/-/blob/master/README.md)
 
 ---
 
