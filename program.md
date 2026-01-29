@@ -37,11 +37,11 @@ title:  Program
 
 
 
-- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/). Meeting point: [Meeting point: Ved Stranden 26, 1061 København](https://maps.app.goo.gl/xUM1WRSGGcHJn5on8).
+- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/). **Meeting point**: [Meeting point: Ved Stranden 26, 1061 København](https://maps.app.goo.gl/xUM1WRSGGcHJn5on8).
 
--   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees. Meeting point: [Green Island - Kalvebod Brygge 9, 1560 København](https://maps.app.goo.gl/BFTZyXfCcZQBtiEh6), Tuesday at 19.00.
+-   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees. **Meeting point**: [Green Island - Kalvebod Brygge 9, 1560 København](https://maps.app.goo.gl/BFTZyXfCcZQBtiEh6), Tuesday at 19.00.
 
-- **Guided meditation**: 1-hour Zen introduction session with the teacher from Boundless Way Zen Copenhagen. This includes 30 min guided meditation (sitting + walking), along with some time for Q+A at the end. Meeting point: AIRLab - ITU Ground floor.
+- **Guided meditation**: 1-hour Zen introduction session with the teacher from Boundless Way Zen Copenhagen. This includes 30 min guided meditation (sitting + walking), along with some time for Q+A at the end. **Meeting point**: AIRLab - ITU Ground floor.
 
 -   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
   
