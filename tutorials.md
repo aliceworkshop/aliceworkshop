@@ -54,8 +54,10 @@ During the interactive part, attendees need to be able to run a Jupyter notebook
 
 ---
 
-### Science Communication
+### From paper to headline: how science goes public
 
 Organiser: **Elise Cutts** | Room: **5A09**
 
-TBA
+Have you ever wondered how a scientific paper ends up becoming a science news story? What exactly happens when a journalist calls you up about your work? And how can you present your research in ways that will grab the attention of journalists and interested laypeople alike? In this tutorial, you'll see how scientific studies make science news and learn tricks for sparking public interest in your work. The workshop is led by Elise Cutts, a freelance science journalist whose writing on complexity, biophysics, astrobiology, and more appears in magazines like Quanta, Scientific American, New Scientist, Science, and Science News.
+
+
