@@ -45,7 +45,7 @@ title:  Program
 
 
 
-- **City trip**: Visit [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/). **Meeting point**: [Ved Stranden 26, 1061 København](https://maps.app.goo.gl/xUM1WRSGGcHJn5on8), Monday at 17.50 — boat leaves at 18.00.
+- **City trip**: Boat tour visiting [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/). **Meeting point**: [Ved Stranden 26, 1061 København](https://maps.app.goo.gl/xUM1WRSGGcHJn5on8), Monday at 17.50 — boat leaves at 18.00.
 
 -   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees. **Meeting point**: [Green Island - Kalvebod Brygge 9, 1560 København](https://maps.app.goo.gl/BFTZyXfCcZQBtiEh6), Tuesday at 19.00.
 
