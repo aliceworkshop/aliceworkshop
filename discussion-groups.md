@@ -52,11 +52,14 @@ Some possible questions to start with:
 
 Facilitator: **Ángel Goñi-Moreno** |  Time: Tuesday 10:30 - 12:00 | Room: 4A05
 
+The design and implementation of genetic circuits in living cells is a major activity within biocomputation. Genetic components are arranged generating pre-defined regulatory cascades where some inputs are turned into outputs according to predefined instructions. This allows us to build biological computations, for instance, in the form of Boolean functions where the combination of inputs turn ON or OFF a specific reporter protein. Although this conceptual mapping has been very successful, there are stability and robustness issues that cannot be overlooked. I argue that the performance of biological circuits in living cells cannot be reduced to Boolean functions. Any other model that is more powerful than Boolean logic? What computing primitives within the cell could we use? Of course, by using DNA alone we cannot go that far… but this is a very reductionist approach. Let’s embrace complexity. Let’s use biological noise, the context, evolution… all of them. Any computation more complex than combinatorial logic now?
 
 
-### **DG F**: TBA
+### **DG F**: How can we use ALICE concepts for creative purposes? 
 
 Facilitator: **Kyrre Glette** |  Time: Tuesday 10:30 - 12:00 | Room: 5A09
+
+In this group we will discuss the advantages and challenges of using ALIFE systems for artistic and creative processes, and their role in the era of deep learning-based generative AI. We will discuss how to interact with such systems and how to map the processes to artistic output. We will also cover evolutionary methods as tools for exploration and creativity. Quality-diversity, open-ended evolution, stepping stones, innovation engines, and interactive evolution are interesting topics in this context.
 
 
 ### **DG G**: TBA
