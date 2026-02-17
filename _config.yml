@@ -84,7 +84,9 @@ menu:
   # - title: Gallery
     # url:   /gallery/
   - title: Sponsors
-    url:   /sponsors/  
+    url:   /sponsors/
+  - title: "📸 ALICE 26' Gallery 📸"
+    url:   /gallery/
   # - title: Partners
     # url:   /partners/
 #  - title: Support
