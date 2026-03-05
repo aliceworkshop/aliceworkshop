@@ -65,6 +65,8 @@ apple_touch_icon:      /assets/icons/apple-touch-icon.png
 menu:
   - title: About
     url: /
+  - title: "📸 ALICE 26' Gallery 📸"
+    url:   /gallery/
   - title: Program
     url:   /program/  
   - title: Discussion Groups
@@ -85,8 +87,6 @@ menu:
     # url:   /gallery/
   - title: Sponsors
     url:   /sponsors/
-  - title: "📸 ALICE 26' Gallery 📸"
-    url:   /gallery/
   # - title: Partners
     # url:   /partners/
 #  - title: Support
