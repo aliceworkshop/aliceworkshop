@@ -37,7 +37,7 @@ keywords:              []
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 # logo:                  /assets/images/logos/poly.png
-logo:                  /assets/images/logos/poly_white_small.png
+# logo:                  /assets/images/logos/poly_white_small.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -85,6 +85,8 @@ menu:
   #   url:   /sponsors/
   - title: "📸 ALICE '26 Gallery 📸"
     url:   /gallery/
+  - title: "Previous editions"
+    url:   https://2026.aliceworkshop.org
   # - title: Partners
     # url:   /partners/
 #  - title: Support
