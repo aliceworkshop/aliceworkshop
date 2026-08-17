@@ -10,7 +10,7 @@ You can contact us at [alice.scienceworkshop@gmail.com](mailto:alice.sciencework
 <div class="committee-grid">
   <div class="committee-card">
     <a class="committee-photo" href="https://www.linkedin.com/in/ane-kristine-e/" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/images/committee/organizing/ane.jpg" alt="Ane Espeseth">
+      <img src="/assets/images/committee/organizing/ane.png" alt="Ane Espeseth">
     </a>
     <h4><a href="https://www.linkedin.com/in/ane-kristine-e/" target="_blank" rel="noopener noreferrer">Ane Espeseth</a></h4>
   </div>
