@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ALICE 26 - Gallery
+title: ALICE '26 Gallery
 ---
 
-Photos from the ALICE Workshop 2026 in Copenhagen.
+Photos from the ALICE Workshop 2026 in Copenhagen. This gallery is kept as a record of the previous edition.
 
 <style>
 .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px;margin-top:1.5rem}

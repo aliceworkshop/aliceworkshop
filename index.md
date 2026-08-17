@@ -30,18 +30,18 @@ The discussion groups and the projects will be facilitated by the [guest speaker
 
 <!-- All while enjoying the warm winter sun of the Canary Islands ☀️🌴 -->
 
-The workshop is organised by the <a href="https://real.itu.dk/" target="_blank">REAL Lab</a>, and sponsored by <a href="https://www.aicentre.dk/" target="_blank">Pioneer Center for Artificial Intelligence</a>, the <a href="https://alife.org/" target="_blank">International Society for Artificial Life (ISAL)</a>, the <a href="https://cssociety.org" target="_blank">Complex Systems Society (CSS)</a>, and the <a href="https://www.itu.dk/" target="_blank">IT University of Copenhagen</a>.
+See photos from last year's edition in the [ALICE '26 Gallery](/gallery/).
 </div>
 
 
 
 ## Important Dates
 
-- Workshop Dates: **February 2nd to 6th, 2026**
-- Applications deadline: ~~October 31st, 2025 (23:59 AoE)~~
-- Notification of acceptance: ~~November 15th, 2025~~
+- Workshop dates: **January 31st to February 5th, 2027**
+- Applications deadline: **September 30th, 2026 (23:59 AoE)**
+- Notification of acceptance: **October 10th, 2026**
 
-<!-- See [Attending section](/attending/) for information on how to register. -->
+See the [Attending section](/attending/) for information on how to apply.
 
 ## Contact
 

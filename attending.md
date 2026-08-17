@@ -1,32 +1,22 @@
 ---
 layout: page
-title:  Attending
+title: Attending
 ---
 
-To attend the ALICE Workshop, we ask all interested individuals to fill our the registration form. The workshop aims at having a balanced group of researchers at different career stages, from PhDs and postdocs to senior researchers. 
+To attend the ALICE Workshop, we ask all interested individuals to fill out the application form. The workshop aims to bring together a balanced group of researchers at different career stages, from PhD candidates and postdocs to senior researchers.
 
 <br>
 **Important dates**:
 
-- Deadline for applications: ~~October 31st, 2025 (23:59 AoE)~~
-- Notification of acceptance: **November 15th, 2025**
+- Workshop dates: **January 31st to February 5th, 2027**
+- Deadline for applications: **September 30th, 2026 (23:59 AoE)**
+- Notification of acceptance: **October 10th, 2026**
 
-<!-- We aim to create a diverse and engaged group of researchers. Excellent applicants with no previous experiences with complexity research will also be considered.  -->
+<!-- We aim to create a diverse and engaged group of researchers. Excellent applicants with no previous experience with complexity research will also be considered. -->
 
 <br>
-The application form [<span style="color: #0066cc;">can be found here.</span>](https://docs.google.com/forms/d/e/1FAIpQLSd2U3IVUo06aT5MsyCTfJ9hmk3nnO71vkqVWXbfKs4B0SeeHw/viewform?usp=dialog)
-
-<!-- https://forms.gle/ksBHHErK9JrHsmQ57 -->
-
-
+The application form [<span style="color: #0066cc;">can be found here.</span>](https://forms.gle/KmLSxeZdCo2LSEHp8)
 
 ### Registration fee
 
-The workshop registration fee is 200EUR and it includes:
-
-- Participation in the workshop
-- Coffee break and lunch (Monday to Friday)
-- Social dinner
-- Social activities
-
-The registration fee does not cover hotel accommodation.
+TBA

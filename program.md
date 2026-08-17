@@ -1,18 +1,7 @@
 ---
 layout: page
-title:  Program
+title: Program
 ---
-
-
-
-### Program 
-<br>
-<a href="/assets/images/program/program.png" target="_blank">
-  <img src="/assets/images/program/program.png" class="venue-image" alt="Program"/>
-</a>
-
-
-[Map of Copenhagen with venue and social activity locations.](https://www.google.com/maps/d/edit?mid=1sicDJ5OZS0NK5WMVkRlvtJPQy1WhvhI&usp=sharing)
 
 <style>
 .justified-text {
@@ -22,38 +11,18 @@ title:  Program
 
 <div class="justified-text" markdown="1">
 
-### Main activities:
+### Main activities
 
-- **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projects. Skybox rooms are booked for the projects every day 9 to 17, except Friday 9 to 12. You may also use them after those hours if not claimed. Besides the booked rooms, you are free to use any of the common areas in the ITU building for your project work.
-  
-  - Monday: 2A05, 3A07, 4A05, 4A09, 5A01, 5A05 and 5A09 (7 skyboxes). 
-  - Tuesday: 2A05, 3A07, 4A05, 4A09, 5A01, 5A05 and 5A09 (7 skyboxes).
-  - Wednesday: 2A05, 2A08, 3A01, 3A05, 3A07, 4A05, 4A09, 5A05 (7 skyboxes + 2A08).
-  - Thursday: 2A05, 3A01, 3A07, 4A05, 5A01, 5A05, 5A09 (7 skyboxes).
-  - Friday: 2A08, 2A05, 3A01, 3A05. 4A09, 5A01, 5A05 (6 skyboxes + 2A08).
+- **Projects**: projects are the backbone of the workshop. Both participants and invited speakers are asked to bring project proposals. During the workshop, the formation of groups is facilitated around the proposed projects, with dedicated time for collaborative work throughout the week.
 
+- [**Discussion groups**](/discussion-groups/): facilitated by a senior researcher, these sessions focus on exchanging ideas, perspectives, and problems. Discussion sessions take place as group discussions around a blackboard rather than in a traditional keynote format. The 2027 discussion groups will be announced later.
 
-- [**Discussion groups** (DG)](/discussion-groups/) facilitated by a senior researcher, these sessions focus on exchanging ideas, perspective and problems. Discussion sessions happen as group discussion around a blackboard—rather than a traditional keynote format. This year's discussion groups can be found in the [discussion groups](/discussion-groups/).
+- [**Tutorials**](/tutorials/): proposed, given, and chosen by participants each year on relevant topics. The 2027 tutorials will be announced later.
 
-- [**Tutorials**:](/tutorials/) proposed, given and chosen by each year participants on relevant topics. This year's tutorials can be found in the [tutorials](/tutorials/).
-<!-- -   Tutorials may be theory-driven, e.g., *An introduction information theory in biological systems*, or on tools, e.g., *Neuroevolution with Julia*. -->
+### Social activities
 
-<!-- -   **Project presentation**: the last day of the workshop, teams have a chance to present their early results. -->
+- **Nordic skiing session**: a group cross-country skiing session in Geilo. Timing, equipment rental, and route details will be announced later.
 
-
-### Social activities:
-
-
-
-- **City trip**: Boat tour visiting [Copenhagen Light Festival](https://copenhagenlightfestival.org/en/). **Meeting point**: [Nyhavn 71, 1051 Indre By](https://maps.app.goo.gl/jz9gkPUFLcx4edPT8?g_st=ic), Monday at 17.50 — boat leaves at 18.00.
-
--   **Reception dinner**: a relaxed evening gathering with good food, drinks, and time to socialize with fellow attendees. **Meeting point**: [Green Island - Kalvebod Brygge 9, 1560 København](https://maps.app.goo.gl/BFTZyXfCcZQBtiEh6), Tuesday at 19.00.
-
-- **Guided meditation**: 1-hour Zen introduction session with the teacher from Boundless Way Zen Copenhagen. This includes 30 min guided meditation (sitting + walking), along with some time for Q+A at the end. **Meeting point**: AIRLab - ITU Ground floor.
-
--   **Art demo session**: a session aimed at showcasing artistic or musical projects by participants. We welcome any project using technology as a creative medium: conceptual pieces, live coding, [virtual creatures](https://sites.google.com/view/vcc-2024),  [algoraves](https://en.wikipedia.org/wiki/Algorave), experimental music instruments, etc.
-  
-
-
+- **Reception dinner**: a relaxed evening gathering with food, drinks, and time to socialise with fellow attendees. Timing and venue details will be announced later.
 
 </div>

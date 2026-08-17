@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  Venue
+title: Venue
 ---
-
-
 
 <style>
 .justified-text {
@@ -13,31 +11,23 @@ title:  Venue
 
 <div class="justified-text" markdown="1">
 
+The workshop will take place in [Geilo, Norway](https://www.google.com/maps/search/?api=1&query=Geilo%2C+Norway), a mountain town in Hol municipality. The exact workshop venue will be announced later.
 
-The workshop will be primarily hosted at the [IT University of Copenhagen](https://maps.app.goo.gl/eLN3VnEd6sCfxdvH8), in Amager, the southern neighborhood of Copenhagen. 
-
-<img src="/assets/images/venue/itu2.jpg" class="venue-image" alt="ITU inside"/>
+<img src="/assets/images/venue/geilo.jpg" class="venue-image" alt="Snow-covered mountains and buildings in Geilo, Norway"/>
 
 ### Public transport information
 
-Moving around Copenhagen is fairly easy. In general all pass types give access to all transport types (metro, s-train, buses). Metros in particular run 24-7 since they are automatic.
+Geilo is on the Bergen Line between Oslo and Bergen and can be reached directly by train from either city. The journey takes approximately 3.5 hours from Oslo and 3 hours from Bergen. Tickets and current timetables are available from [Vy](https://www.vy.no/en/train/routes/the-bergen-line); booking early is recommended for winter travel.
 
-- [Rejsekort](https://www.rejsekort.dk/): This is the most common option. You signup to the app, link it to a payment method and then check in and check out from the app when you get into a metro, s-train or bus. The cost of the trip depends on its length but is usually between 18 and 25 DKK.
-- [City pass](https://www.publictransport.dk/tickets/citypass): This allows you to buy unlimited rides for up to five days (great for the duration of ALICE) at a total cost of 340 DKK. It will be more expensive than taking two rides a day for five days, but as soon as you start doing more than that it may be more cost effective. If you have booked a hotel around the city center then in principle you wouldn't need to take the metro more than twice each day. The activities we have planned outside of the workshop are all around that area.
-- Metro vending machines: There are vending machines at the metro station which you can use to buy tickets.
-- Uber: Is now available in Copenhagen.
-- [Donkey Republic](https://www.donkey.bike/cities/copenhagen): For those of you who want to bike, this is the recommended app. You select a bike and lock/unlock when you want to use/finish using it. 
+- **From Oslo Airport (OSL)**: travel to Oslo Central Station and connect to a Bergen Line train for Geilo. A direct airport shuttle to Geilo also operates during the winter season; check the [official Geilo travel information](https://www.geilo.com/en/tourist-information/how-to-get-here) for the 2027 schedule and advance-booking requirements.
+- **From Bergen Airport (BGO)**: travel to Bergen station, then take a Bergen Line train directly to Geilo.
+- **Planning journeys**: use [Entur](https://entur.no/) for combined Norwegian public-transport routes and [Vy](https://www.vy.no/en) for train tickets.
+- **Getting around Geilo**: the railway station is the local transport hub. Local buses, taxis, and free ski buses serve the town and ski areas; see [transport in Geilo](https://www.geilo.com/en/transport-geilo-and-surrounding-areas) for current information.
 
+Detailed arrival guidance and any workshop-arranged transport will be added once the venue and 2027 timetables are confirmed.
 
+### About Geilo
 
-### About Copenhagen
-
-Founded in the 10th century as a small Viking fishing village, Copenhagen has grown into a vibrant city that blends historic architecture with modern design, cycling culture, and an active cultural scene. Copenhagen is easily reachable by train and fly—[see direct flights to Copenhagen](https://www.flightconnections.com/flights-to-copenhagen-cph). 
-
-
-<img src="/assets/images/background/cph.jpg" class="venue-image" alt="Copenhagen"/>
-
-<!-- <img src="/assets/images/venue/pioneer.jpg" class="venue-image" alt="Pioneer center"/> -->
-
+Geilo is a mountain town and national-park village situated roughly halfway between Oslo and Bergen. Surrounded by Hallingskarvet and Hardangervidda, it is known for cross-country skiing, alpine skiing, and easy access to Norway's high-mountain landscapes. More local information is available from the [official Geilo visitor guide](https://www.geilo.com/en).
 
 </div>
