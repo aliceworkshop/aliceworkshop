@@ -71,14 +71,14 @@ menu:
     url:   /venue/
   - title: Program
     url:   /program/
+  - title: Speakers
+    url:   /speakers/
   - title: Committees
     url:   /committees/
   # - title: Discussion Groups
   #   url:   /discussion-groups/
   # - title: Tutorials
   #   url:   /tutorials/
-  # - title: Speakers
-  #   url:   /speakers/
   # - title: Projects
   #   url:   /projects/
   # - title: Sponsors

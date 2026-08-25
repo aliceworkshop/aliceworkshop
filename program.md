@@ -21,7 +21,7 @@ title: Program
 
 ### Social activities
 
-- **Nordic skiing session**: a group cross-country skiing session in Geilo. Timing, equipment rental, and route details will be announced later.
+- **Alpine skiing session**: a group downhill skiing session on the Geilo slopes, which start directly outside Dr. Holms Hotel. Timing, equipment rental, and lift pass details will be announced later.
 
 - **Reception dinner**: a relaxed evening gathering with food, drinks, and time to socialise with fellow attendees. Timing and venue details will be announced later.
 
