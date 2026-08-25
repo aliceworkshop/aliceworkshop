@@ -23,6 +23,13 @@ You can contact us at [alice.scienceworkshop@gmail.com](mailto:alice.sciencework
   </div>
 
   <div class="committee-card">
+    <span class="committee-photo">
+      <img src="/assets/images/committee/organizing/piotr.jpg" alt="Piotr Walas">
+    </span>
+    <h4>Piotr Walas</h4>
+  </div>
+
+  <div class="committee-card">
     <a class="committee-photo" href="https://www.nichele.eu/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/images/speakers/stefano.jpg" alt="Stefano Nichele">
     </a>
