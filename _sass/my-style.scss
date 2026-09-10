@@ -134,3 +134,48 @@
   color: inherit;
   text-decoration: none;
 }
+
+// Institutions shown in the footer.
+.footer-organisers {
+  margin: 1rem 0 1.5rem;
+}
+
+.footer-organisers-label {
+  display: block;
+  margin-bottom: 0.85rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.footer-organisers-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 1.25rem 2.5rem;
+}
+
+.footer-organisers-logos a {
+  flex: 0 0 auto;
+  border-bottom: 0;
+  line-height: 0;
+}
+
+// Size by height so each logo keeps its own aspect ratio. Sizing by width
+// does not work here: the percentage would resolve against the wrapping
+// <a>, which is itself shrink-to-fit around the image, and the logos
+// collapse to a fraction of their intended size.
+.footer-organisers-logos img {
+  height: 2.75rem;
+  width: auto;
+  max-width: 100%;
+}
+
+// Wordmark-only logos read larger than lockups pairing a seal or icon with
+// text, so give them a smaller height to match optically.
+.footer-organisers-logos img[src*="nora_logo"],
+.footer-organisers-logos img[src*="nordic_ai_partnership"] {
+  height: 2rem;
+}
