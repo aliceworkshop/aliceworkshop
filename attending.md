@@ -25,7 +25,7 @@ The application form [<span style="color: #0066cc;">can be found here.</span>](h
 Final prices will be set as sponsorships are confirmed. The price will not exceed the upper end of these ranges.
 {:.fine}
 
-#### What's included
+### What's included
 
 The full five-night stay at [Dr. Holms Hotel](/venue/) in Geilo, from Sunday evening 31 January to Friday 5 February:
 
