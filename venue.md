@@ -13,7 +13,7 @@ title: Venue
 
 The workshop will take place at [Dr. Holms Hotel](https://www.drholms.no/en/) in [Geilo, Norway](https://www.google.com/maps/search/?api=1&query=Geilo%2C+Norway), a mountain town in Hol municipality. The hotel is at Timrehaugvegen 2, in the middle of Geilo and within walking distance of both the town centre and the railway station.
 
-Dr. Holms has hosted guests in Geilo since 1909. Talks, discussion groups, and project work will take place in its conference rooms, with accommodation, restaurants, and a spa in the same building. The hotel is ski-in/ski-out, so the alpine slopes start directly outside.
+Dr. Holms has hosted guests in Geilo since 1909. Talks, discussion groups, and project work will take place in its conference rooms, with accommodation, restaurants, and a spa in the same building. The hotel is ski-in/ski-out. Rental is available in-house, and ski trails and alpine slopes start directly outside.
 
 <img src="/assets/images/venue/geilo.jpg" class="venue-image" alt="Snow-covered mountains and buildings in Geilo, Norway"/>
 
