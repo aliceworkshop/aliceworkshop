@@ -135,6 +135,13 @@
   text-decoration: none;
 }
 
+// The theme footer opens with an <hr>; ours drops the rule and keeps only
+// the gap it used to provide: 3rem either side of the rule plus the 1rem the
+// first child used to add, which now collapses into this margin.
+footer[role="contentinfo"] {
+  margin-top: 7rem;
+}
+
 // Institutions shown in the footer.
 .footer-organisers {
   margin: 1rem 0 1.5rem;
