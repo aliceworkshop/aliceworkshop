@@ -144,7 +144,7 @@ footer[role="contentinfo"] {
 
 // Institutions shown in the footer.
 .footer-organisers {
-  margin: 1rem 0 1.5rem;
+  margin: 2.5rem 0 1.5rem;
 }
 
 .footer-organisers-label {
@@ -156,43 +156,61 @@ footer[role="contentinfo"] {
   color: #666;
 }
 
-// The four logos are together too wide for one line, and wrap 3 + 1 if left
-// to themselves. Capping the row width makes them break evenly, 2 + 2.
+// One line on the web, stacked on mobile. The column the footer sits in is
+// not a fixed width and is not even monotonic in the viewport (680px wide at
+// 1280px, but only 531px at 1024px, where the sidebar takes more of the
+// page), so a fixed logo size that fits at one width overflows at another.
+// Instead each logo gets a flex-basis of its natural width and is allowed to
+// shrink: flex-shrink is proportional to the basis, so they scale down
+// together, keeping their relative sizes, and always fill the line exactly.
 .footer-organisers-logos {
   display: flex;
-  flex-wrap: wrap;
-  align-items: flex-end;
+  flex-wrap: nowrap;
+  align-items: center;
   justify-content: center;
-  gap: 1.25rem 2rem;
-  max-width: 26rem;
-  margin: 0 auto;
+  gap: 1.5rem;
 }
 
 .footer-organisers-logos a {
-  flex: 0 0 auto;
+  flex: 0 1 auto;
+  min-width: 0;
   border-bottom: 0;
   line-height: 0;
 }
 
-// Size by height so each logo keeps its own aspect ratio. Sizing by width
-// does not work here: the percentage would resolve against the wrapping
-// <a>, which is itself shrink-to-fit around the image, and the logos
-// collapse to a fraction of their intended size.
+// Width-driven here, not height-driven: the <a> is the sized box and the
+// image fills it, so the shrinking above reaches the logo. Each SVG carries
+// width/height attributes, so height:auto keeps its aspect ratio.
 .footer-organisers-logos img {
-  height: 2.75rem;
-  width: auto;
+  width: 100%;
+  height: auto;
   max-width: 100%;
 }
 
-// Wordmark-only logos read larger than lockups pairing a seal or icon with
-// text, so give them a smaller height to match optically.
-.footer-organisers-logos img[src*="nora_logo"],
-.footer-organisers-logos img[src*="nordic_ai_partnership"] {
-  height: 1.85rem;
-}
+// Natural widths, picked so the four read as the same visual weight: the
+// wordmarks (NORA, Pioneer) run smaller than the lockups that pair a seal or
+// icon with text, and the ratios between these numbers are what survive
+// shrinking.
+.footer-organisers-logos .fo-hiof    { flex-basis: 176px; }
+.footer-organisers-logos .fo-uio     { flex-basis: 124px; }
+.footer-organisers-logos .fo-nora    { flex-basis: 141px; }
+.footer-organisers-logos .fo-pioneer { flex-basis: 156px; }
 
-// The Pioneer lockup stacks its name over two lines, so it is far wider than
-// the others at the same height and pushes the row onto a second line.
-.footer-organisers-logos img[src*="pioneer_logo"] {
-  height: 2.1rem;
+// On a phone the line would shrink the logos past legibility, so let them
+// wrap. The flex bases above already carry their proportions, so capping the
+// row width is enough to break it evenly, two and two; narrower than that and
+// they fall one per line, each scaled to the width available.
+@media (max-width: 38em) {
+  // On a phone the page text runs right up to the footer, so the row needs
+  // more room above it than it does on a wide screen.
+  .footer-organisers {
+    margin-top: 4rem;
+  }
+
+  .footer-organisers-logos {
+    flex-wrap: wrap;
+    gap: 1.5rem 2rem;
+    max-width: 22rem;
+    margin: 0 auto;
+  }
 }
