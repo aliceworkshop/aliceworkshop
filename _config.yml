@@ -81,8 +81,8 @@ menu:
   #   url:   /tutorials/
   # - title: Projects
   #   url:   /projects/
-  # - title: Sponsors
-  #   url:   /sponsors/
+  - title: Sponsors
+    url:   /sponsors/
   - title: "📸 ALICE '26 Gallery 📸"
     url:   /gallery/
   - title: "Previous editions"
