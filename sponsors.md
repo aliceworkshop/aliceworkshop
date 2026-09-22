@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sponsors
+# The page already lists every institution; no need to repeat them in the footer.
+no_footer_organisers: true
 ---
 
 ALICE 2027 is made possible by the support of the following institutions.

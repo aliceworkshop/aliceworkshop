@@ -156,12 +156,16 @@ footer[role="contentinfo"] {
   color: #666;
 }
 
+// The four logos are together too wide for one line, and wrap 3 + 1 if left
+// to themselves. Capping the row width makes them break evenly, 2 + 2.
 .footer-organisers-logos {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
   justify-content: center;
-  gap: 1.25rem 2.5rem;
+  gap: 1.25rem 2rem;
+  max-width: 26rem;
+  margin: 0 auto;
 }
 
 .footer-organisers-logos a {
@@ -184,5 +188,11 @@ footer[role="contentinfo"] {
 // text, so give them a smaller height to match optically.
 .footer-organisers-logos img[src*="nora_logo"],
 .footer-organisers-logos img[src*="nordic_ai_partnership"] {
-  height: 2rem;
+  height: 1.85rem;
+}
+
+// The Pioneer lockup stacks its name over two lines, so it is far wider than
+// the others at the same height and pushes the row onto a second line.
+.footer-organisers-logos img[src*="pioneer_logo"] {
+  height: 2.1rem;
 }
