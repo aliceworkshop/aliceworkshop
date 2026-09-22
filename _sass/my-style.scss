@@ -143,8 +143,13 @@ footer[role="contentinfo"] {
 }
 
 // Institutions shown in the footer.
+// No top spacing here, counter-intuitive as that looks. The footer is
+// positioned absolutely against the bottom of .content, which reserves room
+// for it with its own padding-bottom, so anything that makes this row taller
+// moves its top edge *up*, into the page text. The gap above the row is won
+// by keeping the footer short, not by padding it.
 .footer-organisers {
-  margin: 2.5rem 0 1.5rem;
+  margin: 0 0 1.5rem;
 }
 
 .footer-organisers-label {
@@ -201,10 +206,12 @@ footer[role="contentinfo"] {
 // row width is enough to break it evenly, two and two; narrower than that and
 // they fall one per line, each scaled to the width available.
 @media (max-width: 38em) {
-  // On a phone the page text runs right up to the footer, so the row needs
-  // more room above it than it does on a wide screen.
-  .footer-organisers {
-    margin-top: 4rem;
+  // The footer is positioned absolutely against the bottom of .content, and
+  // .content reserves room for it with padding-bottom. The theme's reservation
+  // predates the logo row, so the taller footer rode up over the page text.
+  // Reserve the row's height on top of it.
+  main.content {
+    padding-bottom: 16.5rem;
   }
 
   .footer-organisers-logos {
