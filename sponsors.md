@@ -24,7 +24,7 @@ ALICE 2027 is made possible by the support of the following institutions.
 
   <a class="sln" href="https://www.aicentre.dk/" target="_blank" rel="noopener noreferrer">
     <div class="spc">
-      <div class="sl"><img data-ignore src="/assets/images/sponsors/pioneer.jpg" alt="Pioneer Centre for Artificial Intelligence logo"></div>
+      <div class="sl"><img data-ignore src="/assets/images/sponsors/PCAI_Horizontal_Rgb.svg" alt="Pioneer Centre for Artificial Intelligence logo"></div>
       <div class="si">
         <h4>Pioneer Centre for Artificial Intelligence</h4>
         <p>Focusing on fundamental research, the centre develops interdisciplinary platforms, methods and practices to tackle society's major challenges.</p>
