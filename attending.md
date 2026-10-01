@@ -9,7 +9,7 @@ To attend the ALICE Workshop, we ask all interested individuals to fill out the 
 **Important dates**:
 
 - Workshop dates: **January 31st to February 5th, 2027**
-- Deadline for applications: **September 30th, 2026 (23:59 AoE)**
+- Deadline for applications: <del>September 30th, 2026</del> **October 4th, 2026 (23:59 AoE)**
 - Notification of acceptance: **October 10th, 2026**
 
 <!-- We aim to create a diverse and engaged group of researchers. Excellent applicants with no previous experience with complexity research will also be considered. -->
