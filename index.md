@@ -38,7 +38,7 @@ See photos from last year's edition in the [ALICE '26 Gallery](/gallery/).
 ## Important Dates
 
 - Workshop dates: **January 31st to February 5th, 2027**
-- Applications deadline: <del>September 30th, 2026</del> **October 4th, 2026 (23:59 AoE)**
+- Applications deadline: <del>September 30th, 2026</del>
 - Notification of acceptance: **October 10th, 2026**
 
 See the [Attending section](/attending/) for information on how to apply.
