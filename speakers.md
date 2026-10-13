@@ -35,6 +35,14 @@ Guest speakers lead the discussion groups and facilitate the projects. Further s
     </div>
   </div>
 
+  <div class="sc">
+    <div class="sl"><a href="http://julian.togelius.com" target="_blank"><img src="/assets/images/speakers/julian.jpg" alt="Julian Togelius"></a></div>
+    <div class="si">
+      <h4><a class="sln" href="http://julian.togelius.com" target="_blank">Julian Togelius</a></h4>
+      <p>Julian Togelius is Associate Professor of Computer Science and Engineering at <a href="https://engineering.nyu.edu/faculty/julian-togelius" target="_blank">New York University</a>, where he co-directs the <a href="http://game.engineering.nyu.edu/" target="_blank">Game Innovation Lab</a>, and incoming Professor of AI at Chalmers University of Technology. His research spans creativity, video games, and open-endedness: how AI systems can design their own goals and learn surprising skills, how AI can help people be more creative, and how games can be used to test and improve AI models. He has introduced methods for procedural content generation, human-like game playing, mixed-initiative design, and adapting games to models of player experience. His algorithmic work is mostly in evolutionary computation, especially quality-diversity search, and many of his main contributions have been new research problems and game-based benchmarks.</p>
+    </div>
+  </div>
+
 </div>
 
 <!--
