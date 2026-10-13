@@ -2,7 +2,8 @@
 Weekly timetable built from _data/program.yml. On wide screens it is a grid
 with one column per day; on narrow screens it falls back to a list per day.
 Each day is split into 12 sub-columns so that 2, 3, 4 or 6 sessions can run
-side by side, and a day's `width` sets its relative column width. Clicking a block
+side by side, and a day's `width` sets its relative column width. On phones,
+tapping a day header collapses that day (a hidden checkbox per day). Clicking a block
 opens its details in a popover. A location of "TBA" is shown only there.
 {%- endcomment -%}
 {%- assign p = site.data.program -%}
@@ -23,7 +24,8 @@ opens its details in a popover. A location of "TBA" is shown only there.
     {%- assign d = forloop.index0 -%}
     {%- assign col = d | times: 12 | plus: 2 -%}
     <div class="pg-bg" style="grid-column: {{ col }} / span 12; grid-row: 2 / {{ last_row }}" aria-hidden="true"></div>
-    <h4 class="pg-day" style="grid-column: {{ col }} / span 12">{{ day.name }}</h4>
+    <input type="checkbox" class="pg-toggle" id="pg-day-{{ d }}" aria-label="Collapse {{ day.name }}">
+    <h4 class="pg-day" style="grid-column: {{ col }} / span 12"><label for="pg-day-{{ d }}">{{ day.name }}</label></h4>
 
     {%- for item in day.items -%}
       {%- assign i = forloop.index0 -%}
@@ -38,7 +40,7 @@ opens its details in a popover. A location of "TBA" is shown only there.
 
       {%- if item.parallel -%}
         {%- assign span = 12 | divided_by: item.parallel.size -%}
-        <div class="pg-par">
+        <div class="pg-par pg-{{ item.type }}" data-day="{{ d }}">
           <span class="pg-time">{{ when }}</span>
           <span class="pg-par-title">{{ item.title }}{% if item.location and item.location != "TBA" %} · 📍 {{ item.location }}{% endif %}</span>
           {%- for lane in item.parallel -%}
@@ -60,7 +62,7 @@ opens its details in a popover. A location of "TBA" is shown only there.
         </div>
       {%- else -%}
         {%- capture id -%}pg-{{ d }}-{{ i }}{%- endcapture -%}
-        <button type="button" class="pg-item pg-{{ item.type }}{% if item.icon %} pg-icon{% endif %}{% if item.overlay %} pg-overlay{% endif %}" popovertarget="{{ id }}" style="grid-column: {{ col }} / span 12; grid-row: {{ r1 }} / {{ r2 }}" aria-label="{{ item.title }}, {{ day.name }} {{ when }}">
+        <button type="button" class="pg-item pg-{{ item.type }}{% if item.icon %} pg-icon{% endif %}{% if item.overlay %} pg-overlay{% endif %}" data-day="{{ d }}" popovertarget="{{ id }}" style="grid-column: {{ col }} / span 12; grid-row: {{ r1 }} / {{ r2 }}" aria-label="{{ item.title }}, {{ day.name }} {{ when }}">
           <span class="pg-time">{{ when }}</span>
           <span class="pg-body">
             {%- if item.icon -%}
@@ -77,3 +79,10 @@ opens its details in a popover. A location of "TBA" is shown only there.
     {%- endfor -%}
   {%- endfor -%}
 </div>
+<style>
+@media (max-width: 720px) {
+{%- for day in p.days %}
+  #pg-day-{{ forloop.index0 }}:checked ~ [data-day="{{ forloop.index0 }}"] { display: none; }
+{%- endfor %}
+}
+</style>
