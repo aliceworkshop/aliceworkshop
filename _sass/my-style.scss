@@ -426,27 +426,30 @@ footer[role="contentinfo"] {
   .pg > *:not(.pg-par),
   .pg-par > .pg-item { box-shadow: none; }
   .pg > .pg-food { box-shadow: inset 0 0 0 1px #999; }
-  .pg > .pg-overlay { width: auto; max-width: none; margin: 0; padding: 0.4rem 0.6rem; box-shadow: none; }
-  .pg > .pg-overlay.pg-food { box-shadow: inset 0 0 0 1px #999; opacity: 1; transform: none; }
+  .pg > .pg-overlay { align-self: stretch; width: auto; max-width: none; margin: 0; padding: 0.65rem 0.6rem; box-shadow: none; }
+  .pg > .pg-overlay.pg-food { padding: 0.4rem 0.6rem; box-shadow: inset 0 0 0 1px #999; opacity: 1; transform: none; }
   .pg > .pg-overlay strong { font-size: 0.85rem; }
 
-  .pg-day { margin-top: 1rem; padding: 0.4rem 0.6rem; border-radius: 4px; font-size: 0.85rem; }
+  .pg-day { margin-top: 1.75rem; padding: 0.4rem 0.6rem; border-radius: 4px; font-size: 0.85rem; }
   .pg-day:first-of-type { margin-top: 0; }
 
-  .pg-item { flex-direction: row; gap: 0.6rem; padding: 0.4rem 0.6rem; border-radius: 4px; }
+  // Sessions get a bit more height than meals and coffee breaks
+  .pg-item { flex-direction: row; gap: 0.6rem; padding: 0.65rem 0.6rem; border-radius: 4px; }
+  .pg > .pg-food { padding: 0.4rem 0.6rem; }
   .pg-item strong { font-size: 0.85rem; }
   // Rows open a details card on tap; the chevron hints at that
   .pg-item::after { content: "›"; margin-left: auto; padding-left: 0.4rem; font-size: 1rem; line-height: 1; opacity: 0.5; }
-  .pg-time { display: block; flex: none; width: 6.2rem; font-variant-numeric: tabular-nums; opacity: 0.8; }
+  // A thin line between the time and the title
+  .pg-time { display: block; flex: none; width: 5.7rem; padding-right: 0.5rem; border-right: 1px solid; font-variant-numeric: tabular-nums; opacity: 0.8; }
 
   .pg-icon { justify-content: flex-start; align-items: flex-start; padding: 0.4rem 0.6rem; }
   .pg-icon-label { display: inline; }
 
   .pg-par { display: flex; flex-wrap: wrap; gap: 3px; }
   .pg-par > span { display: block; padding: 0.4rem 0 0.1rem 0.6rem; }
-  .pg-par > .pg-time { width: 6.2rem; }
+  .pg-par > .pg-time { width: 5.7rem; }
   .pg-par > .pg-par-title { flex: 1 1 calc(100% - 7rem); padding-left: 0; }
-  .pg-par > .pg-item { flex: 1; padding: 0.4rem 0.6rem; }
+  .pg-par > .pg-item { flex: 1; padding: 0.65rem 0.6rem; }
   .pg-par > .pg-item strong { font-size: 0.85rem; }
   .pg-lane-kind { display: none; }
 }

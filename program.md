@@ -3,8 +3,6 @@ layout: page
 title: Program
 ---
 
-### Weekly schedule
-
 The workshop opens on Sunday evening with registration and a reception dinner. The schedule below is provisional, and rooms and venues will be announced later.
 
 {% include program-grid.html %}
