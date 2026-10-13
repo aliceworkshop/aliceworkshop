@@ -1,0 +1,79 @@
+{%- comment -%}
+Weekly timetable built from _data/program.yml. On wide screens it is a grid
+with one column per day; on narrow screens it falls back to a list per day.
+Each day is split into 12 sub-columns so that 2, 3, 4 or 6 sessions can run
+side by side, and a day's `width` sets its relative column width. Clicking a block
+opens its details in a popover. A location of "TBA" is shown only there.
+{%- endcomment -%}
+{%- assign p = site.data.program -%}
+{%- assign rows = p.last_hour | minus: p.first_hour | times: 4 -%}
+{%- assign last_row = rows | plus: 2 -%}
+{%- assign hours = p.last_hour | minus: 1 -%}
+{%- capture rowtpl -%}auto{% for h in (p.first_hour..hours) %}{% if p.compact_hours contains h %} repeat(4, minmax(0.3rem, auto)){% else %} repeat(4, minmax(0.65rem, auto)){% endif %}{% endfor %}{%- endcapture -%}
+{%- capture cols -%}3.4rem{% for day in p.days %} repeat(12, minmax(0, {{ day.width | default: 1 }}fr)){% endfor %}{%- endcapture -%}
+<div class="pg" style="--pg-row-tpl: {{ rowtpl }}; --pg-cols: {{ cols }}">
+  <div class="pg-corner" aria-hidden="true"></div>
+
+  {%- for h in (p.first_hour..hours) -%}
+    {%- assign r = h | minus: p.first_hour | times: 4 | plus: 2 -%}
+    <div class="pg-hour{% if p.compact_hours contains h %} pg-hour-compact{% endif %}" style="grid-row: {{ r }} / span 4">{{ h }}.00 -{% unless forloop.last %}<br>{{ h | plus: 1 }}.00{% endunless %}</div>
+  {%- endfor -%}
+
+  {%- for day in p.days -%}
+    {%- assign d = forloop.index0 -%}
+    {%- assign col = d | times: 12 | plus: 2 -%}
+    <div class="pg-bg" style="grid-column: {{ col }} / span 12; grid-row: 2 / {{ last_row }}" aria-hidden="true"></div>
+    <h4 class="pg-day" style="grid-column: {{ col }} / span 12">{{ day.name }}</h4>
+
+    {%- for item in day.items -%}
+      {%- assign i = forloop.index0 -%}
+      {%- assign s = item.start | split: ':' -%}
+      {%- assign e = item.end | split: ':' -%}
+      {%- assign sm = s[1] | divided_by: 15 -%}
+      {%- assign em = e[1] | divided_by: 15 -%}
+      {%- assign r1 = s[0] | minus: p.first_hour | times: 4 | plus: 2 | plus: sm -%}
+      {%- assign r2 = e[0] | minus: p.first_hour | times: 4 | plus: 2 | plus: em -%}
+      {%- if r2 > last_row -%}{%- assign r2 = last_row -%}{%- endif -%}
+      {%- capture when -%}{{ item.start | replace: ':', '.' }}-{{ item.end | replace: ':', '.' }}{%- endcapture -%}
+
+      {%- if item.parallel -%}
+        {%- assign span = 12 | divided_by: item.parallel.size -%}
+        <div class="pg-par">
+          <span class="pg-time">{{ when }}</span>
+          <span class="pg-par-title">{{ item.title }}{% if item.location and item.location != "TBA" %} · 📍 {{ item.location }}{% endif %}</span>
+          {%- for lane in item.parallel -%}
+            {%- assign c = forloop.index0 | times: span | plus: col -%}
+            {%- capture id -%}pg-{{ d }}-{{ i }}-{{ forloop.index0 }}{%- endcapture -%}
+            {%- assign lane_type = lane.type | default: item.type -%}
+            {%- assign lane_location = lane.location | default: item.location -%}
+            {%- assign lane_details = lane.details | default: item.details -%}
+            <button type="button" class="pg-item pg-{{ lane_type }}{% if lane.icon %} pg-icon{% endif %}" popovertarget="{{ id }}" style="grid-column: {{ c }} / span {{ span }}; grid-row: {{ r1 }} / {{ r2 }}"{% if lane.icon %} aria-label="{{ lane.name }}"{% endif %}>
+              {%- if lane.icon -%}
+                <strong><span aria-hidden="true">{{ lane.icon }}</span><span class="pg-icon-label"> {{ lane.name }}</span></strong>
+              {%- else -%}
+                {% if item.lane_kind %}<span class="pg-lane-kind">{{ item.lane_kind }}</span>{% endif %}<strong>{{ lane.label | default: lane.name }}</strong>
+                {%- if lane.location and lane.location != "TBA" -%}<span class="pg-meta">📍 {{ lane.location }}</span>{%- endif -%}
+              {%- endif -%}
+            </button>
+            {%- include program-popover.html id=id title=lane.name subtitle=item.lane_kind day=day when=when location=lane_location details=lane_details type=lane_type -%}
+          {%- endfor -%}
+        </div>
+      {%- else -%}
+        {%- capture id -%}pg-{{ d }}-{{ i }}{%- endcapture -%}
+        <button type="button" class="pg-item pg-{{ item.type }}{% if item.icon %} pg-icon{% endif %}{% if item.overlay %} pg-overlay{% endif %}" popovertarget="{{ id }}" style="grid-column: {{ col }} / span 12; grid-row: {{ r1 }} / {{ r2 }}" aria-label="{{ item.title }}, {{ day.name }} {{ when }}">
+          <span class="pg-time">{{ when }}</span>
+          <span class="pg-body">
+            {%- if item.icon -%}
+              <strong><span aria-hidden="true">{{ item.icon }}</span><span class="pg-icon-label"> {{ item.title }}</span></strong>
+            {%- else -%}
+              <strong>{{ item.title }}</strong>
+            {%- endif -%}
+            {%- if item.location and item.location != "TBA" -%}<span class="pg-meta">📍 {{ item.location }}</span>{%- endif -%}
+            {%- if item.note -%}<span class="pg-meta">{{ item.note }}</span>{%- endif -%}
+          </span>
+        </button>
+        {%- include program-popover.html id=id title=item.title day=day when=when location=item.location note=item.note details=item.details type=item.type -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+</div>

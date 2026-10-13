@@ -215,3 +215,238 @@ footer[role="contentinfo"] {
     margin: 0 auto;
   }
 }
+
+// The page holding the program timetable gets a slightly wider text column
+// than the theme default (42rem, and 48rem from 88em up) to give the grid room.
+@media screen and (min-width: 54em) {
+  main.content:has(.pg) { max-width: 44rem; }
+}
+
+@media screen and (min-width: 88em) {
+  main.content:has(.pg) { max-width: 51rem; }
+}
+
+// Program timetable (_includes/program-grid.html), styled after the 2026
+// program image: small type, dark time axis, and tight hour rows.
+.pg {
+  display: grid;
+  grid-template-columns: var(--pg-cols);
+  grid-template-rows: var(--pg-row-tpl);
+  margin: 1.5rem 0 1rem;
+  padding: 1px;
+  background: #fff;
+  font-size: 0.6rem;
+  line-height: 1.15;
+}
+
+// White separators drawn inside each cell, so rows can stay short. Rows
+// grow past their minimum height whenever a block's text needs more room.
+.pg > *:not(.pg-par),
+.pg-par > .pg-item { box-shadow: inset 0 0 0 1px #fff; }
+
+.pg-corner,
+.pg-hour,
+.pg-day {
+  color: #fff;
+  background: #444;
+}
+
+.pg-corner,
+.pg-hour,
+.pg-day,
+.pg-bg { border-radius: 5px; }
+
+.pg-corner { grid-column: 1; grid-row: 1; }
+
+.pg-day {
+  grid-row: 1;
+  margin: 0;
+  padding: 0.4rem 0.4rem;
+  font-family: inherit;
+  font-size: 0.6rem;
+  font-weight: 400;
+}
+
+
+.pg-hour { grid-column: 1; padding: 0.3rem 0.4rem; }
+.pg-hour-compact { padding-top: 0.15rem; padding-bottom: 0.15rem; }
+
+.pg-bg { background: #f2f2f2; }
+
+.pg-par { display: contents; }
+.pg-par > span { display: none; }
+// Lane labels: the session kind on top, dropped when a lane gets very narrow
+.pg-par > .pg-item { padding: 0.25rem 0.3rem; container-type: inline-size; }
+.pg-par > .pg-item strong { font-size: clamp(0.45rem, 19cqi, 0.62rem); hyphens: manual; }
+.pg-lane-kind { font-size: 0.55rem; opacity: 0.85; }
+
+@container (max-width: 3.2rem) {
+  .pg-lane-kind { display: none; }
+}
+
+.pg-item {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  padding: 0.3rem 0.45rem;
+  overflow: hidden;
+  border: 0;
+  border-radius: 5px;
+  color: #333;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+
+.pg-item:hover,
+.pg-item:focus-visible { filter: brightness(0.93); }
+.pg-item:focus-visible { outline: 2px solid #333; outline-offset: -2px; }
+
+.pg-body { display: flex; flex-direction: column; }
+.pg-item strong { font-weight: 400; font-size: 0.62rem; }
+.pg-meta { padding-left: 0.1rem; }
+.pg-time { display: none; }
+
+.pg-icon { align-items: center; justify-content: center; padding: 0; }
+.pg-icon-label { display: none; }
+
+.pg-social   { background: #b0dfe5; }
+.pg-plenary  { background: #d46b6b; color: #fff; }
+.pg-tutorial { background: #8e7cc3; color: #fff; }
+.pg-dg       { background: #f7d774; }
+.pg-panel    { background: #24508c; color: #fff; }
+.pg-projects { background: #f8e5d0; }
+.pg-meal     { background: #f7d774; }
+.pg-outing   { background: #f7d774; }
+.pg-extra    { background: #4a78d1; color: #fff; }
+.pg-food {
+  color: #333;
+  background: #fff repeating-linear-gradient(135deg, #e4e4e4 0 3px, transparent 3px 8px);
+}
+
+// Meal blocks get a thin dark edge inside the white separator
+.pg > .pg-food { box-shadow: inset 0 0 0 1px #fff, inset 0 0 0 2px #999; }
+
+// A white label behind the meal name so it stands out from the stripes
+.pg-food strong {
+  align-self: flex-start;
+  padding: 0.05rem 0.3rem;
+  margin-left: -0.15rem;
+  border-radius: 3px;
+  background: #fff;
+}
+.pg-food.pg-icon strong { align-self: center; margin-left: 0; }
+
+// A small card sitting on top of another block in the same slot
+.pg > .pg-overlay {
+  z-index: 1;
+  align-self: end;
+  justify-self: end;
+  width: fit-content;
+  max-width: calc(100% - 1rem);
+  margin: 0.15rem 0.5rem;
+  padding: 0.3rem 0.35rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.pg > .pg-overlay strong { font-size: 0.56rem; }
+.pg > .pg-overlay.pg-food {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25), inset 0 0 0 1px #999;
+  opacity: 0.9;
+  transform: translateY(-0.25rem) scale(0.8);
+  transform-origin: right bottom;
+}
+
+// Details card opened by clicking a block
+.pg-pop {
+  width: min(26rem, calc(100vw - 2rem));
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 12px;
+  color: #333;
+  background: #fff;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.pg-pop::backdrop { background: rgba(0, 0, 0, 0.25); }
+
+.pg-pop-head {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.9rem 2.6rem 0.8rem 1.1rem;
+}
+
+.pg-pop-head strong {
+  font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.pg-pop-head span { font-size: 0.8rem; opacity: 0.85; }
+
+.pg-pop-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.6rem;
+  padding: 0 0.3rem;
+  border: 0;
+  color: inherit;
+  background: none;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.pg-pop-body { padding: 0.8rem 1.1rem 0.4rem; }
+.pg-pop-body p { margin: 0 0 0.6rem; }
+.pg-pop-meta { color: #666; font-size: 0.82rem; }
+.pg-pop-meta + p:not(.pg-pop-meta) { margin-top: 0.8rem; }
+
+// Narrow screens: a list per day instead of the week grid
+@media (max-width: 720px) {
+  .pg {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    padding: 0;
+    font-size: 0.85rem;
+  }
+
+  .pg-corner,
+  .pg-hour,
+  .pg-bg { display: none; }
+
+  .pg > *:not(.pg-par),
+  .pg-par > .pg-item { box-shadow: none; }
+  .pg > .pg-food { box-shadow: inset 0 0 0 1px #999; }
+  .pg > .pg-overlay { width: auto; max-width: none; margin: 0; padding: 0.4rem 0.6rem; box-shadow: none; }
+  .pg > .pg-overlay.pg-food { box-shadow: inset 0 0 0 1px #999; opacity: 1; transform: none; }
+  .pg > .pg-overlay strong { font-size: 0.85rem; }
+
+  .pg-day { margin-top: 1rem; padding: 0.4rem 0.6rem; border-radius: 4px; font-size: 0.85rem; }
+  .pg-day:first-of-type { margin-top: 0; }
+
+  .pg-item { flex-direction: row; gap: 0.6rem; padding: 0.4rem 0.6rem; border-radius: 4px; }
+  .pg-item strong { font-size: 0.85rem; }
+  // Rows open a details card on tap; the chevron hints at that
+  .pg-item::after { content: "›"; margin-left: auto; padding-left: 0.4rem; font-size: 1rem; line-height: 1; opacity: 0.5; }
+  .pg-time { display: block; flex: none; width: 6.2rem; font-variant-numeric: tabular-nums; opacity: 0.8; }
+
+  .pg-icon { justify-content: flex-start; align-items: flex-start; padding: 0.4rem 0.6rem; }
+  .pg-icon-label { display: inline; }
+
+  .pg-par { display: flex; flex-wrap: wrap; gap: 3px; }
+  .pg-par > span { display: block; padding: 0.4rem 0 0.1rem 0.6rem; }
+  .pg-par > .pg-time { width: 6.2rem; }
+  .pg-par > .pg-par-title { flex: 1 1 calc(100% - 7rem); padding-left: 0; }
+  .pg-par > .pg-item { flex: 1; padding: 0.4rem 0.6rem; }
+  .pg-par > .pg-item strong { font-size: 0.85rem; }
+  .pg-lane-kind { display: none; }
+}

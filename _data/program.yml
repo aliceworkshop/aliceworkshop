@@ -1,0 +1,299 @@
+# Weekly timetable shown on the Program page.
+#
+# Times are "H:MM" in 15-minute steps from `first_hour`. The grid ends with a
+# single open row starting at `last_hour - 1` (e.g. "19.00 -"); anything that
+# runs later keeps its real end time but is drawn only to the bottom of the grid.
+# `type` picks the colour: social, plenary, tutorial, dg, panel, projects,
+# food (breakfast, lunch, coffee), meal, outing, extra.
+# A day's optional `width` sets its column width relative to the others.
+# Optional fields per item:
+#   location  shown under the title with a pin; "TBA" only appears in the
+#             details card
+#   note      an extra line under the location
+#   icon      shown instead of the title (e.g. a coffee cup)
+#   overlay   true to draw the item as a small card on top of whatever else is
+#             scheduled then (list it after that item)
+#   details   Markdown shown when the block is clicked
+#   parallel  sessions running side by side, each with a `name` and optional
+#             optional `label` (shorter text for the grid; &shy; marks where a
+#             long name may break) and `details` (e.g. discussion groups)
+#             A lane may also set its own `type`, `icon` and `location`.
+#   lane_kind text shown above each parallel session's label
+
+first_hour: 8
+last_hour: 20
+# Hours drawn as a thinner row (breakfast and lunch)
+compact_hours: [8, 12]
+
+days:
+  - name: Sunday
+    date: Jan 31
+    width: 0.95
+    items:
+      - title: Registration and check-in
+        start: "17:00"
+        end: "19:00"
+        type: social
+        location: Dr. Holms Hotel
+        details: Pick up your badge and check in at [Dr. Holms Hotel](/venue/).
+      - title: Reception dinner
+        start: "19:00"
+        end: "22:00"
+        type: meal
+        location: TBA
+        details: A relaxed evening to open the workshop, with food, drinks, and time to meet the other participants.
+
+  - name: Monday
+    date: Feb 1
+    width: 1.15
+    items:
+      - title: Breakfast
+        start: "8:00"
+        end: "9:00"
+        type: food
+      - title: Introduction and projects pitch
+        start: "9:00"
+        end: "12:00"
+        type: plenary
+        location: TBA
+        details: Welcome from the organizers, followed by short pitches of the project proposals brought by participants and speakers.
+      - title: Lunch
+        start: "12:00"
+        end: "13:00"
+        type: food
+      - title: Discussion groups
+        lane_kind: Discussion group
+        start: "13:00"
+        end: "14:30"
+        type: dg
+        location: TBA
+        parallel:
+          - name: Emily Dolson
+            label: Dolson
+          - name: Julian Togelius
+            label: Togelius
+        details: Discussion groups are led by the invited speakers and take place around a blackboard rather than as talks. Topics will be announced on the [discussion groups](/discussion-groups/) page.
+      - title: Poster session
+        start: "14:30"
+        end: "15:30"
+        type: tutorial
+        location: TBA
+        details: Participants present their recent work as posters.
+      - title: Coffee break
+        icon: "☕🥐"
+        start: "15:00"
+        end: "15:30"
+        type: food
+        overlay: true
+      - title: Panel discussion
+        start: "15:30"
+        end: "17:00"
+        type: panel
+        location: TBA
+        details: A panel discussion with the invited speakers.
+      - title: Dinner
+        start: "19:00"
+        end: "21:00"
+        type: food
+
+  - name: Tuesday
+    date: Feb 2
+    width: 1.15
+    items:
+      - title: Breakfast
+        start: "8:00"
+        end: "9:00"
+        type: food
+      - title: Tutorials
+        start: "9:00"
+        end: "10:00"
+        type: tutorial
+        location: TBA
+        details: Tutorials are proposed, given, and chosen by participants. The 2027 tutorials will be announced on the [tutorials](/tutorials/) page.
+      - title: Coffee break
+        icon: "☕🥐"
+        start: "10:00"
+        end: "10:30"
+        type: food
+      - title: Discussion groups
+        lane_kind: Discussion group
+        start: "10:30"
+        end: "12:00"
+        type: dg
+        location: TBA
+        parallel:
+          - name: Christian Guckelsberger
+            label: Guckels&shy;berger
+          - name: Arend Hintze
+            label: Hintze
+        details: Discussion groups are led by the invited speakers and take place around a blackboard rather than as talks. Topics will be announced on the [discussion groups](/discussion-groups/) page.
+      - title: Lunch
+        start: "12:00"
+        end: "13:00"
+        type: food
+      - title: Projects formation & kickstarting
+        start: "13:00"
+        end: "14:00"
+        type: plenary
+        location: TBA
+        details: Participants form groups around the pitched projects and get started.
+      - title: Projects
+        start: "14:00"
+        end: "17:00"
+        type: projects
+        location: TBA
+        details: Time for project groups to work together.
+      - title: Coffee break
+        icon: "☕🥐"
+        start: "15:00"
+        end: "15:30"
+        type: food
+        overlay: true
+      - title: ALICE podcast live
+        start: "16:30"
+        end: "17:00"
+        type: extra
+        overlay: true
+        location: TBA
+        details: A live recording of the ALICE podcast.
+      - title: Dinner
+        start: "19:00"
+        end: "21:00"
+        type: food
+
+  - name: Wednesday
+    date: Feb 3
+    items:
+      - title: Breakfast
+        start: "8:00"
+        end: "9:00"
+        type: food
+      - title: Projects
+        start: "9:00"
+        end: "12:00"
+        type: projects
+        location: TBA
+        details: Time for project groups to work together.
+      - title: ALICE podcast live
+        start: "11:15"
+        end: "12:00"
+        type: extra
+        overlay: true
+        location: TBA
+        details: A live recording of the ALICE podcast.
+      - title: Lunch
+        start: "12:00"
+        end: "13:00"
+        type: food
+      - title: Projects
+        start: "13:00"
+        end: "17:00"
+        type: projects
+        location: TBA
+        details: Time for project groups to work together.
+      - title: Coffee break
+        icon: "☕🥐"
+        start: "15:00"
+        end: "15:30"
+        type: food
+        overlay: true
+      - title: ALICE podcast live
+        start: "16:30"
+        end: "17:00"
+        type: extra
+        overlay: true
+        location: TBA
+        details: A live recording of the ALICE podcast.
+      - title: Projects check-in
+        start: "17:00"
+        end: "17:45"
+        type: plenary
+        location: TBA
+        details: Each group gives a short update on how their project is going.
+      - title: Dinner
+        start: "19:00"
+        end: "21:00"
+        type: food
+
+  - name: Thursday
+    date: Feb 4
+    items:
+      - title: Breakfast
+        start: "8:00"
+        end: "9:00"
+        type: food
+      - title: Projects
+        start: "9:00"
+        end: "12:00"
+        type: projects
+        location: TBA
+        details: Time for project groups to work together.
+      - title: ALICE podcast live
+        start: "11:15"
+        end: "12:00"
+        type: extra
+        overlay: true
+        location: TBA
+        details: A live recording of the ALICE podcast.
+      - title: Lunch
+        start: "12:00"
+        end: "13:00"
+        type: food
+      - title: Projects
+        start: "13:00"
+        end: "17:00"
+        type: projects
+        location: TBA
+        details: Time for project groups to work together.
+      - title: Coffee break
+        icon: "☕🥐"
+        start: "15:00"
+        end: "15:30"
+        type: food
+        overlay: true
+      - title: Projects check-in
+        start: "17:00"
+        end: "17:45"
+        type: plenary
+        location: TBA
+        details: Each group gives a short update on how their project is going.
+      - title: Social hang-out & art demo session
+        start: "17:45"
+        end: "19:00"
+        type: social
+        location: TBA
+        details: A relaxed session to showcase artistic or musical projects by participants, from live coding and algoraves to virtual creatures and experimental instruments.
+      - title: Dinner
+        start: "19:00"
+        end: "21:00"
+        type: food
+
+  - name: Friday
+    date: Feb 5
+    items:
+      - title: Breakfast
+        start: "8:00"
+        end: "9:00"
+        type: food
+      - title: Projects
+        start: "9:00"
+        end: "11:00"
+        type: projects
+        location: TBA
+        details: Last chance to finish up before the presentations.
+      - title: Projects presentations
+        start: "11:00"
+        end: "12:45"
+        type: plenary
+        location: TBA
+        details: Each project group presents what they did during the week.
+      - title: Closing and awards
+        start: "12:45"
+        end: "13:00"
+        type: meal
+        location: TBA
+        details: Closing words from the organizers and the workshop awards.
+      - title: Lunch
+        start: "13:00"
+        end: "14:00"
+        type: food

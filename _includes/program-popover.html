@@ -1,0 +1,13 @@
+<div class="pg-pop" id="{{ include.id }}" popover>
+  <div class="pg-pop-head pg-{{ include.type }}">
+    <strong>{{ include.title }}</strong>
+    {%- if include.subtitle -%}<span>{{ include.subtitle }}</span>{%- endif -%}
+    <button type="button" class="pg-pop-close" popovertarget="{{ include.id }}" popovertargetaction="hide" aria-label="Close">&times;</button>
+  </div>
+  <div class="pg-pop-body">
+    <p class="pg-pop-meta">🗓️ {{ include.day.name }}, {{ include.day.date }} · {{ include.when }}</p>
+    {%- if include.location -%}<p class="pg-pop-meta">📍 {{ include.location }}</p>{%- endif -%}
+    {%- if include.note -%}<p class="pg-pop-meta">{{ include.note }}</p>{%- endif -%}
+    {%- if include.details -%}{{ include.details | markdownify }}{%- endif -%}
+  </div>
+</div>
