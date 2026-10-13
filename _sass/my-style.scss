@@ -66,16 +66,10 @@
 // Committee cards
 .committee-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 210px));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 210px));
   justify-content: center;
   gap: 1.5rem;
   margin: 1rem 0 2.5rem;
-}
-
-@media (max-width: 480px) {
-  .committee-grid {
-    grid-template-columns: minmax(0, 210px);
-  }
 }
 
 .committee-card {
